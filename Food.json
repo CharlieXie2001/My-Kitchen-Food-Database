@@ -12,7 +12,7 @@
         {"category": "Fat", "unit": "g", "quantity": 4.7},
         {"category": "Carbohydrate", "unit": "g", "quantity": 4.8},
         {"category": "Sugar", "unit": "g", "quantity": 4.8},
-        {"category": "DietaryFiber", "unit": "g", "quantity": 0},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
         {"category": "Sodium", "unit": "mg", "quantity": 41}
     ]
   },
@@ -30,7 +30,7 @@
         {"category": "Fat", "unit": "g", "quantity": 4.7},
         {"category": "Carbohydrate", "unit": "g", "quantity": 4.8},
         {"category": "Sugar", "unit": "g", "quantity": 4.8},
-        {"category": "DietaryFiber", "unit": "g", "quantity": 0},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
         {"category": "Sodium", "unit": "mg", "quantity": 41}
     ]
   }
