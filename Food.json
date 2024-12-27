@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9335390000035",
+    "name": "a2 Milk Full Cream Bottle 2L",
+    "quantity": 2,
+    "unit": "L",
+    "healthScore": 4,
+    "caregory": "Dairy",
+    "allergies": ["Milk"],
+    "directions": ["Refrigerator"],
+    "lowTemperature": 1,
+    "topTemperature": 4,
+    "expireAfterOpening": 432000,
+    "barcode": "9335390000035",
+    "imageName": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2F9335390000035.png?alt=media&token=4230fa1a-e6bc-4e51-a6d8-be91d53b5ddf",
+    "description": "a2 Milk Full Cream 2L is pure, naturally A1 protein-free Australian milk from specially selected dairy cows. It is real milk that may be easier on digestion for some people. As the number 1 producer of A1 protein-free milk in Australia, our purpose is to pioneer the future of dairy for good."
+  },
+  {
+    "id": "9310036046707",
+    "name": "Farmhouse Gold Unhomogenised Milk 1.5L",
+    "quantity": 1.5,
+    "unit": "L",
+    "healthScore": 4,
+    "caregory": "Dairy",
+    "allergies": ["Milk"],
+    "directions": ["Refrigerator"],
+    "lowTemperature": 1,
+    "topTemperature": 4,
+    "expireAfterOpening": 432000,
+    "barcode": "9310036046707",
+    "imageName": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2F9310036046707.png?alt=media&token=763d5a85-8020-4391-8df6-a57f9ec9c9cd",
+    "description": "Farmhouse Gold is traditional wholesome milk with a layer of cream on top. It's perfect for those who love the rich, creamy taste of real milk. Made with fresh, premium milk from Australian farms, Farmhouse Gold has a delicious, velvety taste you will savour."
+  },
+  {
+    "id": "9300633910198",
+    "name": "Woolworths Tomato Sauce Squeeze 500ml",
+    "quantity": 500,
+    "unit": "ML",
+    "healthScore": 2.5,
+    "caregory": "Condiment",
+    "allergies": [],
+    "directions": ["Refrigerator"],
+    "lowTemperature": 0,
+    "topTemperature": 5,
+    "expireAfterOpening": 2592000,
+    "barcode": "9300633910198",
+    "imageName": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2F9300633910198.png?alt=media&token=08f3c0a8-31bf-48b8-bf6d-ab00087290d9",
+    "description": "40% Less Sugar & Salt compared to Woolworths Select Tomato Sauce (2015)."
+  }
+]
