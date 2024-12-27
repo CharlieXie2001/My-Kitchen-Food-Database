@@ -21,7 +21,7 @@
     "topTemperature": 4,
     "expireAfterOpening": 432000,
     "barcode": "9335390000035",
-    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9335390000035.heic",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2F9335390000035.heic?alt=media&token=b201dd80-7e2f-4c00-ae64-867c2fc9942b",
     "description": "a2 Milk Full Cream 2L is pure, naturally A1 protein free Australian milk from specially selected dairy cows. a2 Milk is no ordinary milk! It is real milk that may be easier on digestion for some people*. As the number 1 producer of A1 protein free milk in Australia, our purpose is to pioneer the future of dairy for good."
   },
   
@@ -47,7 +47,7 @@
     "topTemperature": 4,
     "expireAfterOpening": 432000,
     "barcode": "9310036046707",
-    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2F9310036046707.heic?alt=media&token=8425d98d-4b20-474f-b1d6-22623bfb7fe0",
     "description": "Farmhouse Gold is traditional wholesome milk with a layer of cream on top. It's Perfect for those who love the rich, creamy taste of real milk. Made with fresh, premium milk from Australian farms, Farmhouse Gold has a delicious, velvety taste you will savour."
   },
   
