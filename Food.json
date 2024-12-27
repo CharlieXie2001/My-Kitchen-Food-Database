@@ -188,6 +188,34 @@
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FVegetable%2F9300633716882.heic?alt=media&token=16de65fb-0be5-4c49-90ae-7a65162b7dfd",
     "description": "Smooth mashed white-fleshed potato blended with cream & butter."
   },
+  
+  {
+    "name": "Fresh Tomato Each",
+    "quantity": 123,
+    "perServing": 123,
+    "unit": "g",
+    "healthScore": 5,
+    "category": "Vegetable",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 92},
+        {"category": "Protein", "unit": "g", "quantity": 1.1},
+        {"category": "Fat", "unit": "g", "quantity": 0.2},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 4.8},
+        {"category": "Sugar", "unit": "g", "quantity": 3.2},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 1.5},
+        {"category": "Sodium", "unit": "mg", "quantity": 6},
+        {"category": "Vitamin A", "unit": "IU", "quantity": 1025},
+        {"category": "Vitamin C", "unit": "mg", "quantity": 17}
+    ],
+    "lowTemperature": 12,
+    "topTemperature": 21,
+    "expireAfterOpening": 604800,
+    "barcode": "",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FVegetable%2FFresh%20Tomato%20Each.heic?alt=media&token=bb1e0d5f-5d4c-41a0-8eac-e521df81f32b",
+    "description": "Round in shape, with a bright red shiny skin and red pulp and whitish seeds. The tomato is actually a fruit but is considered a vegetable because of its uses. Choose smooth, firm and plump tomatoes with an even colour and no blemishes. For best flavour make sure the fruits are fully red. Tomatoes should be stored at room temperature out of direct sunlight. Tomatoes will ripen in these conditions. Do not refrigerate unless they are over ripe. Refrigerated tomatoes do not have the full flavour of tomatoes stored at room temperature. Tomatoes are very versatile, they can be eaten raw as snacks, in salads and sandwiches. They can be used in soups, pizzas, omelettes, braises and stews. Tomatoes preserve well and are easily frozen and bottled, made into homemade sauces, chutneys, and dried or sundried. Tomatoes are complemented by many herbs, especially basil."
+  },
 
 
 
@@ -221,6 +249,58 @@
     "barcode": "HFA403766948",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FMeat%2FHFA403766948.heic?alt=media&token=8672e1d7-e31a-44db-89f3-019cf19213e7",
     "description": "Beef (71%), Water, Seasoning (Potato Starch, Rice Flour, Salt, Maize Starch, Plant Fibres (Bamboo, Pea, Psyllium Husk), Mineral Salt (451), Vegetable Powders (Onion, Garlic), Yeast Extract, Preservative (223 (Sulphites)), Spices, Antioxidant (Ascorbic Acid), Spice Extract, Natural Flavour, Herbs), Vegetable Casing (Water, Thickener (401), Stabiliser (Guar Gum), Acidity Regulators (Citric Acid, Lactic Acid), Preservative (223 (Sulphites)), Firming Agent (509))."
+  },
+
+  {
+    "name": "Macro Organic Extra Lean Beef Mince 500g",
+    "quantity": 550,
+    "perServing": 100,
+    "unit": "g",
+    "healthScore": 4,
+    "category": "Meat",
+    "allergies": [],
+    "directions": ["Refrigerator", "Freezer"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 549},
+        {"category": "Protein", "unit": "g", "quantity": 20.4},
+        {"category": "Fat", "unit": "g", "quantity": 5},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 1},
+        {"category": "Sugar", "unit": "g", "quantity": 1},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 60}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 5,
+    "expireAfterOpening": 172800,
+    "barcode": "W-MNC-XL-FOP",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FMeat%2FMacro%20Organic%20Extra%20Lean%20Beef%20Mince%20500g.heic?alt=media&token=c2d35af8-560d-43a4-bb6b-eb2302d84516",
+    "description": "Macro Organic Extra Lean Beef Mince is certified organic and sourced from Australian beef that contains no added hormones, synthetic pesticides or herbicides. Our Heart Smart beef mince typically contains 95% meat and 5% fat, making it a healthy choice as part of a balanced diet. Enjoy the great quality and taste of Macro Organic Extra Lean Beef Mince for all your family favourites. Use Organic Extra Lean Beef Mince in dishes such as tacos, chilli con carne and low-fat lasagne."
+  },
+
+  {
+    "name": "Woolworths Shortcut Bacon 1kg",
+    "quantity": 1000,
+    "perServing": 50,
+    "unit": "g",
+    "healthScore": 2,
+    "category": "Meat",
+    "allergies": [],
+    "directions": ["Refrigerator", "Freezer"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 635},
+        {"category": "Protein", "unit": "g", "quantity": 16.3},
+        {"category": "Fat", "unit": "g", "quantity": 9.2},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 1},
+        {"category": "Sugar", "unit": "g", "quantity": 1},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 1000}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 5,
+    "expireAfterOpening": 345600,
+    "barcode": "9339687105038",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FMeat%2FWoolworths%20Shortcut%20Bacon%201kg.heic?alt=media&token=15307f6f-320c-4d52-9d2f-59f83a7ac1e5",
+    "description": "Pork (85%), Water, Cure (Salt, Sugar, Mineral Salts (451, 450), Antioxidant (316), Preservative (250)). Naturally Wood Smoked."
   },
 
 
@@ -497,6 +577,32 @@
     "description": "Soda water carbonated beverage."
   },
 
+  {
+    "name": "Coca-Cola Classic Soft Drink Mini Can 250ml",
+    "quantity": 250,
+    "perServing": 250,
+    "unit": "mL",
+    "healthScore": 0.5,
+    "category": "Beverage",
+    "allergies": [],
+    "directions": ["Cool", "Dry", "Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 180},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 10.6},
+        {"category": "Sugar", "unit": "g", "quantity": 10.6},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 10}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 25,
+    "expireAfterOpening": 172800,
+    "barcode": "049000053418",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FBeverage%2FCoca-Cola%20Classic%20Soft%20Drink%20Mini%20Can%20250ml.heic?alt=media&token=10b1ce78-8670-4b3f-8f8e-20854b4cc15d",
+    "description": "Nothing beats the taste of Coca-Cola Classic. It's the perfect companion whether you’re on the go, relaxing at home, enjoying with friends or as a drink with your meal. Refresh yourself with the authentic Coke taste. Designed to go with everything, the taste of Classic Coca-Cola has remained unchanged for more than 130 years. Coca-Cola soft drink is available in cans, mini cans, single serve and sharing size bottles as well as multipacks."
+  },
+
 
 
 
@@ -591,7 +697,7 @@
     "healthScore": 2,
     "category": "Juice",
     "allergies": ["Sulphites"],
-    "directions": ["Cool", "Dry"],
+    "directions": ["Cool", "Dry", "Refrigerator"],
     "NutritionalInformation": [
         {"category": "Energy", "unit": "kJ", "quantity": 86},
         {"category": "Protein", "unit": "g", "quantity": 0},
@@ -617,7 +723,7 @@
     "healthScore": 2.5,
     "category": "Juice",
     "allergies": ["Sulphites"],
-    "directions": ["Cool", "Dry"],
+    "directions": ["Cool", "Dry", "Refrigerator"],
     "NutritionalInformation": [
         {"category": "Energy", "unit": "kJ", "quantity": 10},
         {"category": "Protein", "unit": "g", "quantity": 1},
@@ -630,9 +736,62 @@
     ],
     "lowTemperature": 1,
     "topTemperature": 25,
-    "expireAfterOpening": 7776000,
+    "expireAfterOpening": 2592000,
     "barcode": "9345905005530",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FJuice%2FDiet%20Rite%20Cordial%20Fruit%20Cocktail%201l.heic?alt=media&token=4a01a2f6-6d37-41ee-bf54-7fb0b5e72936",
     "description": "Cordial an Australian institution, but due to our changing lifestyle, many of us are looking for better-for-you cordial alternatives. That's where Diet Rite comes in. Diet Rite is Australia's only 'low-joule' cordial brand. It is made from 50% fruit juice and contains no added sugar, no artificial colours or flavours and has the added goodness of Vitamin C. So drink rite with Diet Rite!"
+  },
+
+  {
+    "name": "Diet Rite Apple Blackcurrant Cordial 1l",
+    "quantity": 1000,
+    "perServing": 25,
+    "unit": "mL",
+    "healthScore": 2.5,
+    "category": "Juice",
+    "allergies": ["Sulphites"],
+    "directions": ["Cool", "Dry", "Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 12},
+        {"category": "Protein", "unit": "g", "quantity": 1},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 0.7},
+        {"category": "Sugar", "unit": "g", "quantity": 0.5},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 1},
+        {"category": "Sodium", "unit": "mg", "quantity": 4},
+        {"category": "Vitamin C", "unit": "mg", "quantity": 2}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 25,
+    "expireAfterOpening": 2592000,
+    "barcode": "9345905007237",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FJuice%2F9345905007237.heic?alt=media&token=d3690ae8-e0ae-46dd-9fb6-3b597a6097c5",
+    "description": "Cordial an Australian institution, but due to our changing lifestyle, many of us are looking for better-for-you cordial alternatives. That’s where Diet Rite comes in. Diet Rite is Australia’s only “low-joule” cordial brand. It is made from 50% fruit juice and contains no added sugar, no artificial colours or flavours and has the added goodness of Vitamin C. So drink rite with Diet Rite!"
+  },
+
+  {
+    "name": "Bickford's Lime Cordial 750ml",
+    "quantity": 750,
+    "perServing": 42,
+    "unit": "mL",
+    "healthScore": 2.5,
+    "category": "Juice",
+    "allergies": ["Sulphur Dioxide"],
+    "directions": ["Refrigerator", "Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 124},
+        {"category": "Protein", "unit": "g", "quantity": 1},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 7.3},
+        {"category": "Sugar", "unit": "g", "quantity": 7.3},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 6.8}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 5,
+    "expireAfterOpening": 2592000,
+    "barcode": "",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FJuice%2FBickford's%20Lime%20Cordial%20750ml.heic?alt=media&token=b43e27b2-86ac-412f-9a3b-f1ef9cf196d9",
+    "description": "Bickford’s Lime Juice Cordial celebrates the proud tradition William Bickford and his wife Anne Margaret began in South Australia from their small apothecary in Adelaide’s Hindley Street, in 1839. Built on enduring values of quality, tradition and purity, Bickford’s famous Lime Juice Cordial is a true icon of Australian heritage. Dilute with sparkling or still water for a real thirst-quenching taste or use as a mixer with premium spirits or as a cocktail ingredient. Typical dilution: Mix 1-part Cordial with 4 parts water."
   }
 ]
