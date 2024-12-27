@@ -420,5 +420,171 @@
     "expireAfterOpening": 63072000,
     "barcode": "9310081134664",
     "description": "Crunchy & fun. These crunchy and lattice shaped taters deliver full on crunchy fun your family will love. These crave-worthy skin-on tater lattice's are perfect to eat as a snack, or at dinner time or load them with your favourite topping to create a delicious nachos or chilli con carne. Perfect for the air fryer but also delicious in the oven these Lattice will become a family favourite."
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "name": "KSF Ice Black Tea Lemon Flavor 500ml",
+    "quantity": 500,
+    "perServing": 500,
+    "unit": "mL",
+    "healthScore": 2.5,
+    "category": "Beverage",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 165},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 9.7},
+        {"category": "Sugar", "unit": "g", "quantity": 9},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 29}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 25,
+    "expireAfterOpening": 259200,
+    "barcode": "6921294338027",
+    "description": "This Kang Shi Fu Ice black tea with fresh lemon fruit flavor brings a refreshing and delicious taste, and brings you a different experience!"
+  },
+
+  {
+    "name": "Woolworths Soda Water 1.25l",
+    "quantity": 1250,
+    "perServing": 250,
+    "unit": "mL",
+    "healthScore": 5,
+    "category": "Beverage",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 0},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 0},
+        {"category": "Sugar", "unit": "g", "quantity": 0},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 5}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 25,
+    "expireAfterOpening": 31536000,
+    "barcode": "9339687219711",
+    "description": "Soda water carbonated beverage."
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "name": "Woolworths Apple & Blackcurrant Juice 2l",
+    "quantity": 2000,
+    "perServing": 250,
+    "unit": "mL",
+    "healthScore": 3,
+    "category": "Juice",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 168},
+        {"category": "Protein", "unit": "g", "quantity": 0.4},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 10.5},
+        {"category": "Sugar", "unit": "g", "quantity": 8.9},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0.1},
+        {"category": "Sodium", "unit": "mg", "quantity": 8}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 25,
+    "expireAfterOpening": 518400,
+    "barcode": "9300633701307",
+    "description": "125mL fruit juice can count as an occasional alternative to a 150g serve of fruit. Australian Dietary Guidelines recommend eating 2 serves of fruit per day."
+  },
+
+  {
+    "name": "H2Juice Watermelon Juice 1.25l",
+    "quantity": 1250,
+    "perServing": 250,
+    "unit": "mL",
+    "healthScore": 3,
+    "category": "Juice",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 190},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 10.5},
+        {"category": "Sugar", "unit": "g", "quantity": 9.5},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 40}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 25,
+    "expireAfterOpening": 259200,
+    "barcode": "9339655098126",
+    "description": "Nothing screams Aussie summer more than a slice of juicy watermelon - and now it comes bottled & without the mess! Our watermelon juice is 100% natural and made from just one ingredient: pure, juicy watermelons and is a good source of Vitamin C!"
+  },
+
+  {
+    "name": "Raw C Coconut Water 2l",
+    "quantity": 2000,
+    "perServing": 250,
+    "unit": "mL",
+    "healthScore": 5,
+    "category": "Juice",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 68},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 3.8},
+        {"category": "Sugar", "unit": "g", "quantity": 3.4},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 28}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 25,
+    "expireAfterOpening": 432000,
+    "barcode": "9349622000281",
+    "description": "Straight up. Rawsome coconut goodness. Product of Vietnam"
+  },
+
+  {
+    "name": "Cottee's Raspberry Cordial Bottle Raspberry 1l",
+    "quantity": 1000,
+    "perServing": 31.25,
+    "unit": "mL",
+    "healthScore": 2,
+    "category": "Juice",
+    "allergies": ["Sulphites"],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 86},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 5},
+        {"category": "Sugar", "unit": "g", "quantity": 5},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 1},
+        {"category": "Sodium", "unit": "mg", "quantity": 11}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 25,
+    "expireAfterOpening": 7776000,
+    "barcode": "9300614000672",
+    "description": "Cottee's Cordial Raspberry Flavour 1L Bottle is great for times with family and friends. Looking for a refreshing and delicious drink to quench your thirst? Look no further than Cottee's Cordial Raspberry Flavour 1L Bottle! Cottee's Cordial Raspberry Flavour is perfect for any occasion, whether you are hosting a party, enjoying a family gathering, or just relaxing at home. Its deliciously sweet and tangy flavour will leave you wanting more. It is also easy to prepare, simply add a small amount of cordial to water and enjoy! Cottee's Cordial Raspberry Flavour is a versatile drink that can be enjoyed in many ways. Mix it with soda water or lemonade for a bubbly treat. Its bold and vibrant colour also makes it a great addition to desserts such as cakes, sorbets, and smoothies. With its great taste, Cottee's Cordial Raspberry Flavour is a must-have for anyone looking for a delicious and refreshing drink. So why wait? Treat yourself and your family to the goodness of Cottee's Cordial Raspberry Flavour 1L Bottle today! Refreshing and delicious taste of fresh raspberries Perfect addition to any beverage collection Convenient 1L bottle for large gatherings, picnics, or home use Versatile drink that can be enjoyed in many ways Great addition to deserts"
   }
 ]
