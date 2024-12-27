@@ -11,5 +11,12 @@
     "name": "Farmhouse Gold Unhomogenised Milk 1.5L",
     "unit": "mL",
     "quantity": 1500
+  },
+  
+  {
+    "id": "2",
+    "name": "Test",
+    "unit": "mL",
+    "quantity": 1500
   }
 ]
