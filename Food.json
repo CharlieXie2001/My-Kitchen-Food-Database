@@ -180,5 +180,104 @@
     "expireAfterOpening": 86400,
     "barcode": "9300633716882",
     "description": "Smooth mashed white-fleshed potato blended with cream & butter."
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "name": "Woolworths 10 Beef Sausages 550g",
+    "quantity": 550,
+    "perServing": 55,
+    "unit": "g",
+    "healthScore": 1.5,
+    "category": "Meat",
+    "allergies": ["Sulphites"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 1060},
+        {"category": "Protein", "unit": "g", "quantity": 15.3},
+        {"category": "Fat", "unit": "g", "quantity": 19.9},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 4},
+        {"category": "Sugar", "unit": "g", "quantity": 0.9},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 509}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 5,
+    "expireAfterOpening": 259200,
+    "barcode": "HFA403766948",
+    "description": "Beef (71%), Water, Seasoning (Potato Starch, Rice Flour, Salt, Maize Starch, Plant Fibres (Bamboo, Pea, Psyllium Husk), Mineral Salt (451), Vegetable Powders (Onion, Garlic), Yeast Extract, Preservative (223 (Sulphites)), Spices, Antioxidant (Ascorbic Acid), Spice Extract, Natural Flavour, Herbs), Vegetable Casing (Water, Thickener (401), Stabiliser (Guar Gum), Acidity Regulators (Citric Acid, Lactic Acid), Preservative (223 (Sulphites)), Firming Agent (509))."
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "name": "Bravo Apple Fresh Each",
+    "quantity": 1,
+    "perServing": 1,
+    "unit": "Each",
+    "healthScore": 5,
+    "category": "Fruit",
+    "allergies": [],
+    "directions": ["Refrigerator", "Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 237},
+        {"category": "Protein", "unit": "g", "quantity": 0.3},
+        {"category": "Fat", "unit": "g", "quantity": 0.2},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 12.1},
+        {"category": "Sugar", "unit": "g", "quantity": 11.8},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 2.3},
+        {"category": "Sodium", "unit": "mg", "quantity": 2.8}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 7,
+    "expireAfterOpening": 259200,
+    "barcode": "Bravo Apple Fresh Each",
+    "description": "With dark burgundy skin, vibrant white flesh and sweet taste, the Bravo apple is like no other™. How to Pick: Apples should be bright and crunchy, with a tight skin and juicy flesh. Our apples have a natural shine and no added wax. How to Store: Storing your apples in the fridge will keep them crisp and fresh for longer. Consume apples within 2 weeks for the best eating experience. Where it's Grown: Our hand picked apples are 100% Australian grown. Our expert growers pick them from trees in the colder climate regions of Australia to ensure they have the best flavour, colour and firmness. Health Benefits: No matter the variety, apples contain fibre, that aids in healthy digestion, and vitamin C, to support the immune system*"
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "name": "Woolworths Pitted Kalamata Olives 345g",
+    "quantity": 345,
+    "perServing": 15,
+    "unit": "g",
+    "healthScore": 2.5,
+    "category": "Canned Food",
+    "allergies": [],
+    "directions": ["Refrigerator", "Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 877},
+        {"category": "Protein", "unit": "g", "quantity": 1.3},
+        {"category": "Fat", "unit": "g", "quantity": 18.4},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 8.8},
+        {"category": "Sugar", "unit": "g", "quantity": 1},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 1000}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 4,
+    "expireAfterOpening": 604800,
+    "barcode": "9300633248536",
+    "description": "Product of Greece. Health Star Rating is 2.5. Ingredients: Kalamata Olives (52%), Water, Vinegar, Salt."
   }
 ]
