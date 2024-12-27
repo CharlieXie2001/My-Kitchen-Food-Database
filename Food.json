@@ -21,6 +21,7 @@
     "topTemperature": 4,
     "expireAfterOpening": 432000,
     "barcode": "9335390000035",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9335390000035.heic",
     "description": "a2 Milk Full Cream 2L is pure, naturally A1 protein free Australian milk from specially selected dairy cows. a2 Milk is no ordinary milk! It is real milk that may be easier on digestion for some people*. As the number 1 producer of A1 protein free milk in Australia, our purpose is to pioneer the future of dairy for good."
   },
   
@@ -46,6 +47,7 @@
     "topTemperature": 4,
     "expireAfterOpening": 432000,
     "barcode": "9310036046707",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "Farmhouse Gold is traditional wholesome milk with a layer of cream on top. It's Perfect for those who love the rich, creamy taste of real milk. Made with fresh, premium milk from Australian farms, Farmhouse Gold has a delicious, velvety taste you will savour."
   },
   
@@ -71,6 +73,7 @@
     "topTemperature": 5,
     "expireAfterOpening": 432000,
     "barcode": "9342584070033",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "An Australian favourite for more than 40 years  with its wide range of rich, creamy and authentic flavours – OAK is always the answer."
   },
   
@@ -96,6 +99,7 @@
     "topTemperature": 4,
     "expireAfterOpening": 259200,
     "barcode": "9310653102640",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "From the moment the lid opens, an intense passionfruit experience starts. First the aroma, then the tart flavour, finished with the crunch of seeds. This is one for all passionfruit lovers."
   },
   
@@ -121,6 +125,7 @@
     "topTemperature": 4,
     "expireAfterOpening": 1814400,
     "barcode": "9310052122539",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "We’ve taken the five-star Western Star taste you know and love and made it soft and spreadable. Ideal for sandwiches, toast, pancakes and more."
   },
   
@@ -146,6 +151,7 @@
     "topTemperature": 4,
     "expireAfterOpening": 900,
     "barcode": "9300658408045",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "Farmers Union Greek Style Yogurt harnesses the goodness of natural ingredients - milk, cream and cultures, to create a deliciously simple yogurt. With 1 billion probiotics^ per serve, Farmers Union Greek Style Yogurt is a nutritious protein snack, as part of a balanced diet."
   },
 
@@ -179,6 +185,7 @@
     "topTemperature": 5,
     "expireAfterOpening": 86400,
     "barcode": "9300633716882",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "Smooth mashed white-fleshed potato blended with cream & butter."
   },
 
@@ -212,6 +219,7 @@
     "topTemperature": 5,
     "expireAfterOpening": 259200,
     "barcode": "HFA403766948",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "Beef (71%), Water, Seasoning (Potato Starch, Rice Flour, Salt, Maize Starch, Plant Fibres (Bamboo, Pea, Psyllium Husk), Mineral Salt (451), Vegetable Powders (Onion, Garlic), Yeast Extract, Preservative (223 (Sulphites)), Spices, Antioxidant (Ascorbic Acid), Spice Extract, Natural Flavour, Herbs), Vegetable Casing (Water, Thickener (401), Stabiliser (Guar Gum), Acidity Regulators (Citric Acid, Lactic Acid), Preservative (223 (Sulphites)), Firming Agent (509))."
   },
 
@@ -245,6 +253,7 @@
     "topTemperature": 7,
     "expireAfterOpening": 259200,
     "barcode": "Bravo Apple Fresh Each",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "With dark burgundy skin, vibrant white flesh and sweet taste, the Bravo apple is like no other™. How to Pick: Apples should be bright and crunchy, with a tight skin and juicy flesh. Our apples have a natural shine and no added wax. How to Store: Storing your apples in the fridge will keep them crisp and fresh for longer. Consume apples within 2 weeks for the best eating experience. Where it's Grown: Our hand picked apples are 100% Australian grown. Our expert growers pick them from trees in the colder climate regions of Australia to ensure they have the best flavour, colour and firmness. Health Benefits: No matter the variety, apples contain fibre, that aids in healthy digestion, and vitamin C, to support the immune system*"
   },
 
@@ -278,6 +287,7 @@
     "topTemperature": 4,
     "expireAfterOpening": 604800,
     "barcode": "9300633248536",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "Product of Greece. Health Star Rating is 2.5. Ingredients: Kalamata Olives (52%), Water, Vinegar, Salt."
   },
 
@@ -311,6 +321,7 @@
     "topTemperature": 5,
     "expireAfterOpening": 2592000,
     "barcode": "9300633910198",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "40% Less Sugar & Salt compared to Woolworths Select Tomato Sauce (2015)"
   },
 
@@ -336,6 +347,7 @@
     "topTemperature": 5,
     "expireAfterOpening": 2592000,
     "barcode": "9310012021049",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "Squeeze on Australia's Favourite Tomato Sauce 500mL at your next family BBQ. Add the classic flavours of MasterFoods™ Tomato Sauce to your favourite foods with ease. A distinct, delicious blend of ripe tomatoes and a sprinkle of spices. Great on burgers, sausages, hot dogs and pies. This easy squeeze 500 mL bottle is perfect for picnics, travelling or barbecues. This delicious sauce contains no artificial colours, flavours or preservatives."
   },
 
@@ -361,6 +373,7 @@
     "topTemperature": 5,
     "expireAfterOpening": 2592000,
     "barcode": "9310012049142",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "MasterFoods Tomato Sauce Reduced Salt & Sugar contains at least 25% less salt and sugar per 100 ml than MasterFood Tomato Sauce, without compromising on your favourite Tomato sauce taste.Shake before use. Remove undercap freshness seal.Refrigerate after opening."
   },
 
@@ -386,6 +399,7 @@
     "topTemperature": 5,
     "expireAfterOpening": 2592000,
     "barcode": "93575232",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "A true Aussie legend, ETA brings delicious classic products backed by years of experience to the table. Your backyard BBQ is not complete without ETA Barbecue Sauce. This barbecue sauce tastes great with any type of meat, be it a burger, steak or sausage sizzle. ETA Barbecue Sauce is a real Aussie classic. It's not only delicious on burgers and sausages but is also the perfect dipping sauce for chicken nuggets, chicken wings and hot chips. For a hit of flavour, why not try using it as a pizza sauce and adding your favourite pizza toppings? Your barbecue will be incomplete without ETA Original Barbecue Sauce. It's made for pairing with burgers, meat, sausages or as a dipping sauce for chips."
   },
 
@@ -419,6 +433,7 @@
     "topTemperature": -18,
     "expireAfterOpening": 63072000,
     "barcode": "9310081134664",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "Crunchy & fun. These crunchy and lattice shaped taters deliver full on crunchy fun your family will love. These crave-worthy skin-on tater lattice's are perfect to eat as a snack, or at dinner time or load them with your favourite topping to create a delicious nachos or chilli con carne. Perfect for the air fryer but also delicious in the oven these Lattice will become a family favourite."
   },
 
@@ -452,6 +467,7 @@
     "topTemperature": 25,
     "expireAfterOpening": 259200,
     "barcode": "6921294338027",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "This Kang Shi Fu Ice black tea with fresh lemon fruit flavor brings a refreshing and delicious taste, and brings you a different experience!"
   },
 
@@ -477,6 +493,7 @@
     "topTemperature": 25,
     "expireAfterOpening": 31536000,
     "barcode": "9339687219711",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "Soda water carbonated beverage."
   },
 
@@ -510,6 +527,7 @@
     "topTemperature": 25,
     "expireAfterOpening": 518400,
     "barcode": "9300633701307",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "125mL fruit juice can count as an occasional alternative to a 150g serve of fruit. Australian Dietary Guidelines recommend eating 2 serves of fruit per day."
   },
 
@@ -535,6 +553,7 @@
     "topTemperature": 25,
     "expireAfterOpening": 259200,
     "barcode": "9339655098126",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "Nothing screams Aussie summer more than a slice of juicy watermelon - and now it comes bottled & without the mess! Our watermelon juice is 100% natural and made from just one ingredient: pure, juicy watermelons and is a good source of Vitamin C!"
   },
 
@@ -560,6 +579,7 @@
     "topTemperature": 25,
     "expireAfterOpening": 432000,
     "barcode": "9349622000281",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "Straight up. Rawsome coconut goodness. Product of Vietnam"
   },
 
@@ -585,6 +605,7 @@
     "topTemperature": 25,
     "expireAfterOpening": 7776000,
     "barcode": "9300614000672",
+    "imageURL": "gs://my-kitchen-4e7fe.firebasestorage.app/Item Images/Dairy/9310036046707.heic",
     "description": "Cottee's Cordial Raspberry Flavour 1L Bottle is great for times with family and friends. Looking for a refreshing and delicious drink to quench your thirst? Look no further than Cottee's Cordial Raspberry Flavour 1L Bottle! Cottee's Cordial Raspberry Flavour is perfect for any occasion, whether you are hosting a party, enjoying a family gathering, or just relaxing at home. Its deliciously sweet and tangy flavour will leave you wanting more. It is also easy to prepare, simply add a small amount of cordial to water and enjoy! Cottee's Cordial Raspberry Flavour is a versatile drink that can be enjoyed in many ways. Mix it with soda water or lemonade for a bubbly treat. Its bold and vibrant colour also makes it a great addition to desserts such as cakes, sorbets, and smoothies. With its great taste, Cottee's Cordial Raspberry Flavour is a must-have for anyone looking for a delicious and refreshing drink. So why wait? Treat yourself and your family to the goodness of Cottee's Cordial Raspberry Flavour 1L Bottle today! Refreshing and delicious taste of fresh raspberries Perfect addition to any beverage collection Convenient 1L bottle for large gatherings, picnics, or home use Versatile drink that can be enjoyed in many ways Great addition to deserts"
   }
 ]
