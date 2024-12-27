@@ -607,5 +607,32 @@
     "barcode": "9300614000672",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FJuice%2F9300614000672.heic?alt=media&token=1c50d0df-18b8-4b3c-a7be-b63a4c984e7a",
     "description": "Cottee's Cordial Raspberry Flavour 1L Bottle is great for times with family and friends. Looking for a refreshing and delicious drink to quench your thirst? Look no further than Cottee's Cordial Raspberry Flavour 1L Bottle! Cottee's Cordial Raspberry Flavour is perfect for any occasion, whether you are hosting a party, enjoying a family gathering, or just relaxing at home. Its deliciously sweet and tangy flavour will leave you wanting more. It is also easy to prepare, simply add a small amount of cordial to water and enjoy! Cottee's Cordial Raspberry Flavour is a versatile drink that can be enjoyed in many ways. Mix it with soda water or lemonade for a bubbly treat. Its bold and vibrant colour also makes it a great addition to desserts such as cakes, sorbets, and smoothies. With its great taste, Cottee's Cordial Raspberry Flavour is a must-have for anyone looking for a delicious and refreshing drink. So why wait? Treat yourself and your family to the goodness of Cottee's Cordial Raspberry Flavour 1L Bottle today! Refreshing and delicious taste of fresh raspberries Perfect addition to any beverage collection Convenient 1L bottle for large gatherings, picnics, or home use Versatile drink that can be enjoyed in many ways Great addition to deserts"
+  },
+
+  {
+    "name": "Diet Rite Cordial Fruit Cocktail 1l",
+    "quantity": 1000,
+    "perServing": 25,
+    "unit": "mL",
+    "healthScore": 2.5,
+    "category": "Juice",
+    "allergies": ["Sulphites"],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 10},
+        {"category": "Protein", "unit": "g", "quantity": 1},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 0.6},
+        {"category": "Sugar", "unit": "g", "quantity": 0.5},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 1},
+        {"category": "Sodium", "unit": "mg", "quantity": 4},
+        {"category": "Vitamin C", "unit": "mg", "quantity": 2}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 25,
+    "expireAfterOpening": 7776000,
+    "barcode": "9345905005530",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FJuice%2FDiet%20Rite%20Cordial%20Fruit%20Cocktail%201l.heic?alt=media&token=4a01a2f6-6d37-41ee-bf54-7fb0b5e72936",
+    "description": "Cordial an Australian institution, but due to our changing lifestyle, many of us are looking for better-for-you cordial alternatives. That's where Diet Rite comes in. Diet Rite is Australia's only 'low-joule' cordial brand. It is made from 50% fruit juice and contains no added sugar, no artificial colours or flavours and has the added goodness of Vitamin C. So drink rite with Diet Rite!"
   }
 ]
