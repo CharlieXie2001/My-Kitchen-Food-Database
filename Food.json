@@ -4,7 +4,8 @@
     "name": "a2 Milk Full Cream Bottle 2L",
     "unit": "kg",
     "quantity": 2000,
-    "category": "Dairy"
+    "category": "Dairy",
+    "directions": ["Cool", "Dry"]
     },
   
   {
@@ -12,6 +13,7 @@
     "name": "Farmhouse Gold Unhomogenised Milk 1.5L",
     "unit": "mL",
     "quantity": 1500,
-    "category": "Dairy"
+    "category": "Dairy",
+    "directions": ["Cool"]
   }
 ]
