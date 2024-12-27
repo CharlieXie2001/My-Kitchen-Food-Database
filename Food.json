@@ -25,8 +25,8 @@
   },
   
   {
-    "name": "a2 Milk Full Cream Bottle 2L",
-    "quantity": 2000,
+    "name": "Farmhouse Gold Unhomogenised Milk 1.5L",
+    "quantity": 1500,
     "perServing": 250,
     "unit": "mL",
     "healthScore": 4,
@@ -34,18 +34,68 @@
     "allergies": ["Milk"],
     "directions": ["Refrigerator"],
     "NutritionalInformation": [
-        {"category": "Energy", "unit": "kJ", "quantity": 275},
-        {"category": "Protein", "unit": "g", "quantity": 3.3},
-        {"category": "Fat", "unit": "g", "quantity": 3.5},
-        {"category": "Carbohydrate", "unit": "g", "quantity": 5},
-        {"category": "Sugar", "unit": "g", "quantity": 4.7},
+        {"category": "Energy", "unit": "kJ", "quantity": 317},
+        {"category": "Protein", "unit": "g", "quantity": 3.4},
+        {"category": "Fat", "unit": "g", "quantity": 4.7},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 4.8},
+        {"category": "Sugar", "unit": "g", "quantity": 4.8},
         {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
-        {"category": "Sodium", "unit": "mg", "quantity": 33}
+        {"category": "Sodium", "unit": "mg", "quantity": 41}
     ],
     "lowTemperature": 1,
     "topTemperature": 4,
     "expireAfterOpening": 432000,
-    "barcode": "9335390000035",
-    "description": "a2 Milk Full Cream 2L is pure, naturally A1 protein free Australian milk from specially selected dairy cows. a2 Milk is no ordinary milk! It is real milk that may be easier on digestion for some people*. As the number 1 producer of A1 protein free milk in Australia, our purpose is to pioneer the future of dairy for good."
+    "barcode": "9310036046707",
+    "description": "Farmhouse Gold is traditional wholesome milk with a layer of cream on top. It's Perfect for those who love the rich, creamy taste of real milk. Made with fresh, premium milk from Australian farms, Farmhouse Gold has a delicious, velvety taste you will savour."
+  },
+  
+  {
+    "name": "OAK Chocolate Flavoured Milk 2L",
+    "quantity": 2000,
+    "perServing": 250,
+    "unit": "mL",
+    "healthScore": 2,
+    "category": "Dairy",
+    "allergies": ["Milk"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 376},
+        {"category": "Protein", "unit": "g", "quantity": 3.5},
+        {"category": "Fat", "unit": "g", "quantity": 3.4},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 11},
+        {"category": "Sugar", "unit": "g", "quantity": 10.6},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0.6},
+        {"category": "Sodium", "unit": "mg", "quantity": 50}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 5,
+    "expireAfterOpening": 432000,
+    "barcode": "9342584070033",
+    "description": "An Australian favourite for more than 40 years  with its wide range of rich, creamy and authentic flavours – OAK is always the answer."
+  },
+  
+  {
+    "name": "Gippsland Dairy Passionfruit Twist Yoghurt 160g",
+    "quantity": 160,
+    "perServing": 160,
+    "unit": "g",
+    "healthScore": 3,
+    "category": "Dairy",
+    "allergies": ["Milk"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 649},
+        {"category": "Protein", "unit": "g", "quantity": 5.9},
+        {"category": "Fat", "unit": "g", "quantity": 5.7},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 20},
+        {"category": "Sugar", "unit": "g", "quantity": 16.7},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0.3},
+        {"category": "Sodium", "unit": "mg", "quantity": 64}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 4,
+    "expireAfterOpening": 259200,
+    "barcode": "9310653102640",
+    "description": "From the moment the lid opens, an intense passionfruit experience starts. First the aroma, then the tart flavour, finished with the crunch of seeds. This is one for all passionfruit lovers."
   }
 ]
