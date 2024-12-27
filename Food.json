@@ -6,7 +6,7 @@
     "unit": "mL",
     "healthScore": 4,
     "category": "Dairy",
-    "category": ["Milk"],
+    "allergies": ["Milk"],
     "directions": ["Refrigerator"],
     "NutritionalInformation": [
         {"category": "Energy", "unit": "kJ", "quantity": 275},
