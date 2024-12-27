@@ -13,29 +13,5 @@
     "unit": "mL",
     "quantity": 1500,
     "category": "Dairy"
-  },
-  
-  {
-    "id": "2",
-    "name": "Test",
-    "unit": "g",
-    "quantity": 1500,
-    "category": "Dairy"
-  },
-  
-  {
-    "id": "2",
-    "name": "Test",
-    "unit": "g",
-    "quantity": 1500,
-    "category": "Dairy"
-  },
-  
-  {
-    "id": "2",
-    "name": "Test",
-    "unit": "g",
-    "quantity": 1500,
-    "category": "Dairy"
   }
 ]
