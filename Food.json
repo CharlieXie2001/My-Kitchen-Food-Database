@@ -18,7 +18,7 @@
   {
     "id": "2",
     "name": "Test",
-    "unit": "mL",
+    "unit": "kg",
     "quantity": 1500,
     "category": "Dairy"
   }
