@@ -22,5 +22,30 @@
     "expireAfterOpening": 432000,
     "barcode": "9335390000035",
     "description": "a2 Milk Full Cream 2L is pure, naturally A1 protein free Australian milk from specially selected dairy cows. a2 Milk is no ordinary milk! It is real milk that may be easier on digestion for some people*. As the number 1 producer of A1 protein free milk in Australia, our purpose is to pioneer the future of dairy for good."
+  },
+  
+  {
+    "name": "a2 Milk Full Cream Bottle 2L",
+    "quantity": 2000,
+    "perServing": 250,
+    "unit": "mL",
+    "healthScore": 4,
+    "category": "Dairy",
+    "allergies": ["Milk"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 275},
+        {"category": "Protein", "unit": "g", "quantity": 3.3},
+        {"category": "Fat", "unit": "g", "quantity": 3.5},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 5},
+        {"category": "Sugar", "unit": "g", "quantity": 4.7},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 33}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 4,
+    "expireAfterOpening": 432000,
+    "barcode": "9335390000035",
+    "description": "a2 Milk Full Cream 2L is pure, naturally A1 protein free Australian milk from specially selected dairy cows. a2 Milk is no ordinary milk! It is real milk that may be easier on digestion for some people*. As the number 1 producer of A1 protein free milk in Australia, our purpose is to pioneer the future of dairy for good."
   }
 ]
