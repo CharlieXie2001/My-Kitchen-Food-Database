@@ -97,5 +97,88 @@
     "expireAfterOpening": 259200,
     "barcode": "9310653102640",
     "description": "From the moment the lid opens, an intense passionfruit experience starts. First the aroma, then the tart flavour, finished with the crunch of seeds. This is one for all passionfruit lovers."
+  },
+  
+  {
+    "name": "Western Star Original Spreadable Butter Blend Tub 375g",
+    "quantity": 375,
+    "perServing": 5,
+    "unit": "g",
+    "healthScore": 3,
+    "category": "Dairy",
+    "allergies": ["Milk", "Soy"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 2570},
+        {"category": "Protein", "unit": "g", "quantity": 1},
+        {"category": "Fat", "unit": "g", "quantity": 68.4},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 1.2},
+        {"category": "Sugar", "unit": "g", "quantity": 1.2},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 487}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 4,
+    "expireAfterOpening": 1814400,
+    "barcode": "9310052122539",
+    "description": "We’ve taken the five-star Western Star taste you know and love and made it soft and spreadable. Ideal for sandwiches, toast, pancakes and more."
+  },
+  
+  {
+    "name": "Farmers Union Greek Style Yogurt Pouch Real Vanilla Bean 130g",
+    "quantity": 130,
+    "perServing": 130,
+    "unit": "g",
+    "healthScore": 3,
+    "category": "Dairy",
+    "allergies": ["Milk"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 401},
+        {"category": "Protein", "unit": "g", "quantity": 4.9},
+        {"category": "Fat", "unit": "g", "quantity": 2.9},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 12.3},
+        {"category": "Sugar", "unit": "g", "quantity": 11.8},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 50}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 4,
+    "expireAfterOpening": 900,
+    "barcode": "9300658408045",
+    "description": "Farmers Union Greek Style Yogurt harnesses the goodness of natural ingredients - milk, cream and cultures, to create a deliciously simple yogurt. With 1 billion probiotics^ per serve, Farmers Union Greek Style Yogurt is a nutritious protein snack, as part of a balanced diet."
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "name": "Woolworths Classic Potato Mash 475g",
+    "quantity": 475,
+    "perServing": 118,
+    "unit": "g",
+    "healthScore": 4,
+    "category": "Vegetable",
+    "allergies": ["Egg", "Tree Nuts", "Peanuts", "Gluten", "Soy", "Fish"],
+    "directions": ["Refrigerator", "Freezer"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 486},
+        {"category": "Protein", "unit": "g", "quantity": 2.9},
+        {"category": "Fat", "unit": "g", "quantity": 6},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 11.9},
+        {"category": "Sugar", "unit": "g", "quantity": 1.5},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 1.6},
+        {"category": "Sodium", "unit": "mg", "quantity": 163}
+    ],
+    "lowTemperature": -25,
+    "topTemperature": 5,
+    "expireAfterOpening": 86400,
+    "barcode": "9300633716882",
+    "description": "Smooth mashed white-fleshed potato blended with cream & butter."
   }
 ]
