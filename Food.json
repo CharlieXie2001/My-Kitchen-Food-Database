@@ -5,8 +5,17 @@
     "unit": "kg",
     "quantity": 2000,
     "category": "Dairy",
-    "directions": ["Cool", "Dry"]
-    },
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 317},
+        {"category": "Protein", "unit": "g", "quantity": 3.4},
+        {"category": "Fat", "unit": "g", "quantity": 4.7},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 4.8},
+        {"category": "Sugar", "unit": "g", "quantity": 4.8},
+        {"category": "DietaryFiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 41}
+    ]
+  },
   
   {
     "id": "9310036046707",
@@ -14,6 +23,15 @@
     "unit": "mL",
     "quantity": 1500,
     "category": "Dairy",
-    "directions": ["Cool"]
+    "directions": ["Cool"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 317},
+        {"category": "Protein", "unit": "g", "quantity": 3.4},
+        {"category": "Fat", "unit": "g", "quantity": 4.7},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 4.8},
+        {"category": "Sugar", "unit": "g", "quantity": 4.8},
+        {"category": "DietaryFiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 41}
+    ]
   }
 ]
