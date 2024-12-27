@@ -3,20 +3,23 @@
     "id": "9335390000035",
     "name": "a2 Milk Full Cream Bottle 2L",
     "unit": "kg",
-    "quantity": 2000
+    "quantity": 2000,
+    "category": "Dairy"
     },
   
   {
     "id": "9310036046707",
     "name": "Farmhouse Gold Unhomogenised Milk 1.5L",
     "unit": "mL",
-    "quantity": 1500
+    "quantity": 1500,
+    "category": "Dairy"
   },
   
   {
     "id": "2",
     "name": "Test",
     "unit": "mL",
-    "quantity": 1500
+    "quantity": 1500,
+    "category": "Dairy"
   }
 ]
