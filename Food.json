@@ -706,29 +706,29 @@
   },
   
   {
-    "name": "Birds Eye Golden Crunch Lattice Potato Chips Criss Cross French Fries 750g",
-    "quantity": 750,
+    "name": "Birds Eye Golden Crunch Straight Cut Chips 900g",
+    "quantity": 900,
     "perServing": 100,
     "unit": "g",
-    "healthScore": 3.5,
+    "healthScore": 4,
     "category": "Chips & Wedges",
     "allergies": ["Gluten", "Wheat"],
     "directions": ["Freezer"],
     "NutritionalInformation": [
-        {"category": "Energy", "unit": "kJ", "quantity": 705},
-        {"category": "Protein", "unit": "g", "quantity": 2.4},
-        {"category": "Fat", "unit": "g", "quantity": 5.5},
-        {"category": "Carbohydrate", "unit": "g", "quantity": 26.3},
-        {"category": "Sugar", "unit": "g", "quantity": 0.1},
-        {"category": "Dietary Fiber", "unit": "g", "quantity": 1.6},
-        {"category": "Sodium", "unit": "mg", "quantity": 464}
+        {"category": "Energy", "unit": "kJ", "quantity": 537},
+        {"category": "Protein", "unit": "g", "quantity": 3},
+        {"category": "Fat", "unit": "g", "quantity": 4.5},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 17.9},
+        {"category": "Sugar", "unit": "g", "quantity": 1},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 1.9},
+        {"category": "Sodium", "unit": "mg", "quantity": 271}
     ],
     "lowTemperature": -25,
     "topTemperature": -18,
     "expireAfterOpening": 63072000,
-    "barcode": "9310081134664",
-    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FChips%2FBirds%20Eye%20Golden%20Crunch%20Lattice%20Potato%20Chips%20Criss%20Cross%20French%20Fries%20750g.heic?alt=media&token=15f7c32d-3c77-47cb-afc4-a3c9cd3ce5c2",
-    "description": "Potato (86%), vegetable oil, *wheat* flour, thickeners (1412, 1400, 466), rice flour, salt, corn starch, acidity regulators (450, sodium bicarbonate), dextrose (from maize)."
+    "barcode": "9310081128809",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FChips%2F9310081128809.heic?alt=media&token=62e57765-232d-4a40-b44a-64631425a548",
+    "description": "You can never go wrong with serving up a bowl of Birds Eye Golden Crunch Straight Cut Chips. Made in Australia with Australian grown potatoes these frozen chips are crisp and crunchy straight out of the oven. Everyone will love these spuds as they are prepped and frozen for your convenience, easy to cook and so versatile. Try pairing these fries with oven baked fish or a schnitzel. They also make the great addition to a barbecue feast."
   },
 
 
