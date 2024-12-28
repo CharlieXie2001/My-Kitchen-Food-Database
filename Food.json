@@ -24,6 +24,32 @@
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2F9335390000035.heic?alt=media&token=b201dd80-7e2f-4c00-ae64-867c2fc9942b",
     "description": "a2 Milk Full Cream 2L is pure, naturally A1 protein free Australian milk from specially selected dairy cows. a2 Milk is no ordinary milk! It is real milk that may be easier on digestion for some people*. As the number 1 producer of A1 protein free milk in Australia, our purpose is to pioneer the future of dairy for good."
   },
+
+  {
+    "name": "A2 Milk Light Milk 2L",
+    "quantity": 2000,
+    "perServing": 250,
+    "unit": "mL",
+    "healthScore": 4,
+    "category": "Dairy",
+    "allergies": ["Milk"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 189},
+        {"category": "Protein", "unit": "g", "quantity": 3.3},
+        {"category": "Fat", "unit": "g", "quantity": 1.3},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 5.2},
+        {"category": "Sugar", "unit": "g", "quantity": 5.2},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 48}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 4,
+    "expireAfterOpening": 432000,
+    "barcode": "9335390000042",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2F9335390000042.heic?alt=media&token=6ec391db-2d52-42c3-9464-d7f4bdacc379",
+    "description": "a2 Milk Light 2L is pure, naturally A1 protein free Australian reduced fat milk from specially selected dairy cows. It is real milk that may be easier on digestion for some people*."
+  },
   
   {
     "name": "Farmhouse Gold Unhomogenised Milk 1.5L",
@@ -523,6 +549,128 @@
     "barcode": "Bravo Apple Fresh Each",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FFruit%2FBravo%20Apple%20Fresh%20Each.heic?alt=media&token=4454da92-5f05-423e-8307-fd3416a4728d",
     "description": "With dark burgundy skin, vibrant white flesh and sweet taste, the Bravo apple is like no other™. How to Pick: Apples should be bright and crunchy, with a tight skin and juicy flesh. Our apples have a natural shine and no added wax. How to Store: Storing your apples in the fridge will keep them crisp and fresh for longer. Consume apples within 2 weeks for the best eating experience. Where it's Grown: Our hand picked apples are 100% Australian grown. Our expert growers pick them from trees in the colder climate regions of Australia to ensure they have the best flavour, colour and firmness. Health Benefits: No matter the variety, apples contain fibre, that aids in healthy digestion, and vitamin C, to support the immune system*"
+  },
+
+  {
+    "name": "Cavendish Bananas Each",
+    "quantity": 1,
+    "perServing": 1,
+    "unit": "Each",
+    "healthScore": 5,
+    "category": "Fruit",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 371},
+        {"category": "Protein", "unit": "g", "quantity": 1.1},
+        {"category": "Fat", "unit": "g", "quantity": 0.3},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 22.8},
+        {"category": "Sugar", "unit": "g", "quantity": 12.2},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 2.6},
+        {"category": "Sodium", "unit": "mg", "quantity": 1}
+    ],
+    "lowTemperature": 12,
+    "topTemperature": 25,
+    "expireAfterOpening": 259200,
+    "barcode": "",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FFruit%2FCavendish%20Bananas%20Each.heic?alt=media&token=e69e21c7-e412-4c93-a5e5-4d4ac8964fab",
+    "description": "Cavendish is the most popular banana variety in Australia, with firm, starchy flesh and available all year round. Ripe bananas are perfect for snacking, used in baking, fruit salads and smoothie."
+  },
+
+  {
+    "name": "Calypso Mango Each",
+    "quantity": 400,
+    "perServing": 200,
+    "unit": "g",
+    "healthScore": 5,
+    "category": "Fruit",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 240},
+        {"category": "Protein", "unit": "g", "quantity": 0.8},
+        {"category": "Fat", "unit": "g", "quantity": 0.2},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 14},
+        {"category": "Sugar", "unit": "g", "quantity": 13},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 1.6},
+        {"category": "Sodium", "unit": "mg", "quantity": 2},
+        {"category": "Vitamin A", "unit": "IU", "quantity": 1082},
+        {"category": "Vitamin C", "unit": "mg", "quantity": 36}
+    ],
+    "lowTemperature": 12,
+    "topTemperature": 25,
+    "expireAfterOpening": 518400,
+    "barcode": "",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FFruit%2FCalypso%20Mango%20Each.heic?alt=media&token=2bd0394d-bdf6-49be-a592-8c8870ac885d",
+    "description": "Sweet, juicy flavour. Calypso® mangoes have yellow skin with deep pink blush and firm flesh. Start with smell. Pick a mango that has a sweet mango aroma. Squeeze the mango gently. A ripe mango will give slightly. Calypso® have great shelf life and are best when completely ripe, allow fruit to reach full colour with no signs of green for best eating experience.  If your mangoes are not ripe enough, store them at room temperature and out of the sun for a few days until ripe. Never store mangoes in plastic bags – mangoes need air!"
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "name": "Haagen-Dazs Ice Cream Belgian Chocolate 457mL",
+    "quantity": 457,
+    "perServing": 91.4,
+    "unit": "mL",
+    "healthScore": 2.5,
+    "category": "Ice Cream",
+    "allergies": ["Egg", "Milk", "Soy"],
+    "directions": ["Freezer"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 1270},
+        {"category": "Protein", "unit": "g", "quantity": 4.5},
+        {"category": "Fat", "unit": "g", "quantity": 19.9},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 25.9},
+        {"category": "Sugar", "unit": "g", "quantity": 25.2},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 2.4},
+        {"category": "Sodium", "unit": "mg", "quantity": 45}
+    ],
+    "lowTemperature": -30,
+    "topTemperature": -18,
+    "expireAfterOpening": 864000,
+    "barcode": "3415581113365",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FIce%20Cream%2F3415581113365.heic?alt=media&token=b2437a90-443a-4249-a95e-fc75007d5386",
+    "description": "Intense and mysterious, but I needn't be a stranger. If you love chocolate, I mean really love chocolate, it's time you got to know me. I'm a simply heavenly ice cream with quality Belgian chocolate, waiting to be discovered. So what's my secret? I don't hold back. My ice cream uses only quality and carefully selected ingredients, every bite of me is proof that when you start with something simple, extraordinary things can happen."
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "name": "Abbott's Bakery Rustic White Bread Sandwich Slice Loaf 700g",
+    "quantity": 700,
+    "perServing": 78,
+    "unit": "g",
+    "healthScore": 4,
+    "category": "Bakery",
+    "allergies": ["Gluten", "Soy"],
+    "directions": ["Cool", "Dry", "Freezer", "Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 1070},
+        {"category": "Protein", "unit": "g", "quantity": 8.9},
+        {"category": "Fat", "unit": "g", "quantity": 2.5},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 46.5},
+        {"category": "Sugar", "unit": "g", "quantity": 2.7},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 4.5},
+        {"category": "Sodium", "unit": "mg", "quantity": 362}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 25,
+    "expireAfterOpening": 345600,
+    "barcode": "9339423007961",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FBakery%2F9339423007961.heic?alt=media&token=995d4be3-2360-4733-aad7-e1ad5beb3d29",
+    "description": "Abbott’s Bakery is for those who see the kitchen as a playground to feed their creativity and evoke delight. Our premium, versatile range is made for makers to craft their edible masterpieces just the way they like."
   },
 
 
@@ -1085,5 +1233,57 @@
     "barcode": "",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FJuice%2FBickford's%20Lime%20Cordial%20750ml.heic?alt=media&token=b43e27b2-86ac-412f-9a3b-f1ef9cf196d9",
     "description": "Bickford’s Lime Juice Cordial celebrates the proud tradition William Bickford and his wife Anne Margaret began in South Australia from their small apothecary in Adelaide’s Hindley Street, in 1839. Built on enduring values of quality, tradition and purity, Bickford’s famous Lime Juice Cordial is a true icon of Australian heritage. Dilute with sparkling or still water for a real thirst-quenching taste or use as a mixer with premium spirits or as a cocktail ingredient. Typical dilution: Mix 1-part Cordial with 4 parts water."
+  },
+
+  {
+    "name": "IF 100% Coconut Water 350 ml",
+    "quantity": 350,
+    "perServing": 350,
+    "unit": "mL",
+    "healthScore": 4.5,
+    "category": "Juice",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 97},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 5.5},
+        {"category": "Sugar", "unit": "g", "quantity": 4.2},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 38}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 4,
+    "expireAfterOpening": 86400,
+    "barcode": "8859015700588",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FJuice%2F8859015700588.heic?alt=media&token=af4213e0-58fe-4997-b931-4cfb89a08208",
+    "description": "Refresh your day with IF 100% Coconut Water. Our coconut is authentic Thai young coconut which is well-known for its natural sweetness. Each IF coconut is well nurtured by the local farmers and carefully passed through Cold Aseptic Filling process, purify test and hygienic conditions control in order to ensure product quality and consistently preserve its natural nutrients and flavor without sugar added, color added, and preservatives. We make sure everyone tastes the finest coconut water like it is just freshly picked from the tree."
+  },
+
+  {
+    "name": "IF Coconut Water with Pulp",
+    "quantity": 350,
+    "perServing": 350,
+    "unit": "mL",
+    "healthScore": 4.5,
+    "category": "Juice",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 97},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 5.5},
+        {"category": "Sugar", "unit": "g", "quantity": 4.2},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 38}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 4,
+    "expireAfterOpening": 86400,
+    "barcode": "8859015701707",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FJuice%2F8859015701707.heic?alt=media&token=58ffe197-189b-46c5-9086-ba226011ad3f",
+    "description": "Refreshing coconut water with a little bits (coconut pulp) more to enjoy."
   }
 ]
