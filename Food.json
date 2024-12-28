@@ -206,6 +206,32 @@
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2F9300633443177.heic?alt=media&token=d037f8a9-ee75-4043-ab17-604d654dd531",
     "description": "This product varies by state. Please review the product packaging for specific details when you receive this product, including nutritional information and ingredients, before consuming."
   },
+  
+  {
+    "name": "Tasmanian Heritage Double Brie Cheese 200g",
+    "quantity": 200,
+    "perServing": 25,
+    "unit": "g",
+    "healthScore": 4,
+    "category": "Dairy",
+    "allergies": ["Milk"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 1500},
+        {"category": "Protein", "unit": "g", "quantity": 17.3},
+        {"category": "Fat", "unit": "g", "quantity": 32},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 1},
+        {"category": "Sugar", "unit": "g", "quantity": 1},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 600}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 4,
+    "expireAfterOpening": 518400,
+    "barcode": "9314441716262",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2F9314441716262.heic?alt=media&token=7db04740-9a46-4e72-9c75-c586c4a84afe",
+    "description": "Milk, Cream (milk), salt, cultures(milk),non-animal rennet, mineral salt(509)."
+  },
 
 
 
