@@ -348,6 +348,34 @@
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FVegetable%2FFresh%20Broccoli%20Each.heic?alt=media&token=91f08e7d-6a41-4b2a-9f58-5c990c8092d2",
     "description": "A vegetable with deep green flower clusters which form the head, and pale green stems,with firm stalks that snap easily. Avoid using broccoli with yellowed leaves or yellow flowers through the buds."
   },
+  
+  {
+    "name": "Carrot Fresh Each",
+    "quantity": 70,
+    "perServing": 70,
+    "unit": "g",
+    "healthScore": 5,
+    "category": "Vegetable",
+    "allergies": [],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 173},
+        {"category": "Protein", "unit": "g", "quantity": 0.9},
+        {"category": "Fat", "unit": "g", "quantity": 0.2},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 9.6},
+        {"category": "Sugar", "unit": "g", "quantity": 4.7},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 2.8},
+        {"category": "Sodium", "unit": "mg", "quantity": 69},
+        {"category": "Vitamin A", "unit": "IU", "quantity": 835},
+        {"category": "Vitamin C", "unit": "mg", "quantity": 6}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 4,
+    "expireAfterOpening": 345600,
+    "barcode": "",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FVegetable%2FCarrot%20Fresh%20Each.heic?alt=media&token=eee3dc62-720f-4e50-b400-1131f6b3e774",
+    "description": "Choose carrots that are firm, well formed, with a good orange colour. Trim ends and peel. Cut as required. Popular grated, finely sliced or diced for salads and juiced. Wash well or lightly scrape to ensure all soil is removed. Cut into rings, cubes, strips, or chunks. They can be eaten raw as snacks, or cooked and used in savoury and some sweet dishes, such as carrot cake or muffins. Carrots should be cooked until they are tender and depending on preference, still slightly crunchy. Cooked, tender carrots may be mashed or pur?ed."
+  },
 
 
 
