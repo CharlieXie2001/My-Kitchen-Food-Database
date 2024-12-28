@@ -558,6 +558,58 @@
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FCanned%20Food%2F9300633248536.heic?alt=media&token=4471e17d-8a04-4420-a3df-fcea8a1d69a3",
     "description": "Product of Greece. Health Star Rating is 2.5. Ingredients: Kalamata Olives (52%), Water, Vinegar, Salt."
   },
+  
+  {
+    "name": "Three Threes Gherkins Sweet Spiced 540g",
+    "quantity": 540,
+    "perServing": 30,
+    "unit": "g",
+    "healthScore": 3,
+    "category": "Canned Food",
+    "allergies": [],
+    "directions": ["Refrigerator", "Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 329},
+        {"category": "Protein", "unit": "g", "quantity": 1},
+        {"category": "Fat", "unit": "g", "quantity": 1},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 18.1},
+        {"category": "Sugar", "unit": "g", "quantity": 15},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 860}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 4,
+    "expireAfterOpening": 3628800,
+    "barcode": "9310480333057",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FCanned%20Food%2F9310480333057.heic?alt=media&token=f4a592d4-ca0f-4051-a7dc-7b974f95a359",
+    "description": "Three Threes Sweet Spiced Gherkins are processed over several weeks before being packed in a special vinegar that gives the right combination of sweet but spiced flavour. Three Threes Gherkins are crisp and best served with cheese and biscuits. They can be added to salads and as a garnish on hamburgers and sandwiches"
+  },
+  
+  {
+    "name": "Sandhurst Chillies Jalapeno Medium Hot 270g",
+    "quantity": 270,
+    "perServing": 50,
+    "unit": "g",
+    "healthScore": 3,
+    "category": "Canned Food",
+    "allergies": [],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 74},
+        {"category": "Protein", "unit": "g", "quantity": 0.6},
+        {"category": "Fat", "unit": "g", "quantity": 0.2},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 3.3},
+        {"category": "Sugar", "unit": "g", "quantity": 0},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 2.4},
+        {"category": "Sodium", "unit": "mg", "quantity": 630}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 4,
+    "expireAfterOpening": 1209600,
+    "barcode": "9313839001348",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FCanned%20Food%2F9313839001348.heic?alt=media&token=8b8024b1-199d-40c3-88d0-f4f400ff3381",
+    "description": "Sandhurst Sliced Jalapenos Medium Spice is gluten free."
+  },
 
 
 
