@@ -232,6 +232,32 @@
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2F9314441716262.heic?alt=media&token=7db04740-9a46-4e72-9c75-c586c4a84afe",
     "description": "Milk, Cream (milk), salt, cultures(milk),non-animal rennet, mineral salt(509)."
   },
+  
+  {
+    "name": "Woolworths Whipped Cream 250g",
+    "quantity": 250,
+    "perServing": 20,
+    "unit": "g",
+    "healthScore": 0.5,
+    "category": "Dairy",
+    "allergies": ["Milk"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 1200},
+        {"category": "Protein", "unit": "g", "quantity": 2.2},
+        {"category": "Fat", "unit": "g", "quantity": 26.4},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 11.2},
+        {"category": "Sugar", "unit": "g", "quantity": 11.2},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 27}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 5,
+    "expireAfterOpening": 259200,
+    "barcode": "9300633982065",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2F9300633982065.heic?alt=media&token=504d707e-a859-4205-967b-60c733f990cc",
+    "description": "No Preservatives. No Artificial Colours. No Artificial Flavours. Gluten free. Cream (62%) (Milk) (contains min 35% Milk Fat), Skimmed Milk Concentrate, Liquid Sugar (Sugar, Water), Dextrose, Propellant (Nitrogen, Nitrous Oxide), Emulsifier (471), Vegetable Gum (Carrageenan), Natural Flavour."
+  },
 
 
 
