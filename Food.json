@@ -646,6 +646,32 @@
   },
 
   {
+    "name": "Heinz Ketchup Tomato Sauce 500ml",
+    "quantity": 500,
+    "perServing": 15,
+    "unit": "mL",
+    "healthScore": 3,
+    "category": "Condiment",
+    "allergies": [],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 515},
+        {"category": "Protein", "unit": "g", "quantity": 1},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 27.2},
+        {"category": "Sugar", "unit": "g", "quantity": 25.3},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 1.5},
+        {"category": "Sodium", "unit": "mg", "quantity": 800}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 4,
+    "expireAfterOpening": 4838400,
+    "barcode": "9300657114046",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FCondiment%2F9300657114046.heic?alt=media&token=c147c361-b33f-4687-bc3d-c9c82f768626",
+    "description": "Heinz Tomato Ketchup is a classic and versatile condiment. It's the perfect dipping sauce for chips, potato wedges or sausages and can also be drizzled on burgers. Perfect as a dip for fried food like chicken nuggets, chips and onion rings, no other tomato ketchup tastes quite like it. Made with no preservatives, Heinz Tomato Ketchup is the perfect combo of sweet and tangy, which also makes it delicious on homemade burgers and meat pies. Packed in a squeezy bottle, you can easily drizzle as much as you want on your meals and snacks."
+  },
+
+  {
     "name": "Eta Smokey BBQ Sauce 375mL",
     "quantity": 375,
     "perServing": 20,
