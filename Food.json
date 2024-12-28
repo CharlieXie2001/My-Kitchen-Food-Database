@@ -320,6 +320,34 @@
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FVegetable%2FFresh%20Tomato%20Each.heic?alt=media&token=bb1e0d5f-5d4c-41a0-8eac-e521df81f32b",
     "description": "Round in shape, with a bright red shiny skin and red pulp and whitish seeds. The tomato is actually a fruit but is considered a vegetable because of its uses. Choose smooth, firm and plump tomatoes with an even colour and no blemishes. For best flavour make sure the fruits are fully red. Tomatoes should be stored at room temperature out of direct sunlight. Tomatoes will ripen in these conditions. Do not refrigerate unless they are over ripe. Refrigerated tomatoes do not have the full flavour of tomatoes stored at room temperature. Tomatoes are very versatile, they can be eaten raw as snacks, in salads and sandwiches. They can be used in soups, pizzas, omelettes, braises and stews. Tomatoes preserve well and are easily frozen and bottled, made into homemade sauces, chutneys, and dried or sundried. Tomatoes are complemented by many herbs, especially basil."
   },
+  
+  {
+    "name": "Fresh Broccoli Each",
+    "quantity": 400,
+    "perServing": 100,
+    "unit": "g",
+    "healthScore": 5,
+    "category": "Vegetable",
+    "allergies": [],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 141},
+        {"category": "Protein", "unit": "g", "quantity": 2.8},
+        {"category": "Fat", "unit": "g", "quantity": 0.4},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 6.6},
+        {"category": "Sugar", "unit": "g", "quantity": 1.7},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 2.6},
+        {"category": "Sodium", "unit": "mg", "quantity": 33},
+        {"category": "Vitamin A", "unit": "IU", "quantity": 623},
+        {"category": "Vitamin C", "unit": "mg", "quantity": 47}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 4,
+    "expireAfterOpening": 345600,
+    "barcode": "",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FVegetable%2FFresh%20Broccoli%20Each.heic?alt=media&token=91f08e7d-6a41-4b2a-9f58-5c990c8092d2",
+    "description": "A vegetable with deep green flower clusters which form the head, and pale green stems,with firm stalks that snap easily. Avoid using broccoli with yellowed leaves or yellow flowers through the buds."
+  },
 
 
 
