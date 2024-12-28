@@ -154,6 +154,58 @@
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2F9300658408045.heic?alt=media&token=81a574b9-54f3-44a7-94f9-f455af64549d",
     "description": "Farmers Union Greek Style Yogurt harnesses the goodness of natural ingredients - milk, cream and cultures, to create a deliciously simple yogurt. With 1 billion probiotics^ per serve, Farmers Union Greek Style Yogurt is a nutritious protein snack, as part of a balanced diet."
   },
+  
+  {
+    "name": "Pauls Kids Bluey Vanilla Custard Pouch 70g",
+    "quantity": 70,
+    "perServing": 70,
+    "unit": "g",
+    "healthScore": 4,
+    "category": "Dairy",
+    "allergies": ["Milk", "Soy"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 389},
+        {"category": "Protein", "unit": "g", "quantity": 3.5},
+        {"category": "Fat", "unit": "g", "quantity": 1.7},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 15.6},
+        {"category": "Sugar", "unit": "g", "quantity": 12.8},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 67}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 5,
+    "expireAfterOpening": 900,
+    "barcode": "9310036042488",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2F9310036042488.heic?alt=media&token=a3dd3516-5f97-4cf1-bfad-70d1443f8002",
+    "description": "Enjoy snack time with Bluey!Pauls Bluey Vanilla Custard is a delicious, perfectly portioned snack, ready to enjoy on the go.With dairy goodness for growing kids, Pauls Kids custard contains no preservatives and no artificial colours. It’s a great source of calcium, is low in fat and is gluten-free. Pauls Bluey Vanilla Custard is a delicious, perfectly portioned snack, ready to enjoy on the go. With dairy goodness for growing kids, Pauls Kids custard contains no preservatives and no artificial colours. It’s a great source of calcium, is low in fat and is gluten-free. Perfect for lunch boxes, snack time, or a quick pick-me-up, our custard pouches are a convenient and tasty addition to any day."
+  },
+  
+  {
+    "name": "Woolworths Thickened Cream 300ml",
+    "quantity": 300,
+    "perServing": 30,
+    "unit": "mL",
+    "healthScore": 0.5,
+    "category": "Dairy",
+    "allergies": ["Milk"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 1400},
+        {"category": "Protein", "unit": "g", "quantity": 2.4},
+        {"category": "Fat", "unit": "g", "quantity": 35.5},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 3},
+        {"category": "Sugar", "unit": "g", "quantity": 3},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 25}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 4,
+    "expireAfterOpening": 432000,
+    "barcode": "9300633443177",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2F9300633443177.heic?alt=media&token=d037f8a9-ee75-4043-ab17-604d654dd531",
+    "description": "This product varies by state. Please review the product packaging for specific details when you receive this product, including nutritional information and ingredients, before consuming."
+  },
 
 
 
