@@ -704,6 +704,32 @@
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FChips%2F9310081134664.heic?alt=media&token=b7cf1137-b9dc-4db2-8ddf-1abace403c53",
     "description": "Crunchy & fun. These crunchy and lattice shaped taters deliver full on crunchy fun your family will love. These crave-worthy skin-on tater lattice's are perfect to eat as a snack, or at dinner time or load them with your favourite topping to create a delicious nachos or chilli con carne. Perfect for the air fryer but also delicious in the oven these Lattice will become a family favourite."
   },
+  
+  {
+    "name": "Birds Eye Golden Crunch Lattice Potato Chips Criss Cross French Fries 750g",
+    "quantity": 750,
+    "perServing": 100,
+    "unit": "g",
+    "healthScore": 3.5,
+    "category": "Chips & Wedges",
+    "allergies": ["Gluten", "Wheat"],
+    "directions": ["Freezer"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 705},
+        {"category": "Protein", "unit": "g", "quantity": 2.4},
+        {"category": "Fat", "unit": "g", "quantity": 5.5},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 26.3},
+        {"category": "Sugar", "unit": "g", "quantity": 0.1},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 1.6},
+        {"category": "Sodium", "unit": "mg", "quantity": 464}
+    ],
+    "lowTemperature": -25,
+    "topTemperature": -18,
+    "expireAfterOpening": 63072000,
+    "barcode": "9310081134664",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FChips%2FBirds%20Eye%20Golden%20Crunch%20Lattice%20Potato%20Chips%20Criss%20Cross%20French%20Fries%20750g.heic?alt=media&token=15f7c32d-3c77-47cb-afc4-a3c9cd3ce5c2",
+    "description": "Potato (86%), vegetable oil, *wheat* flour, thickeners (1412, 1400, 466), rice flour, salt, corn starch, acidity regulators (450, sodium bicarbonate), dextrose (from maize)."
+  },
 
 
 
