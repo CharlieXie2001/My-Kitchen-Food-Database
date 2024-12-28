@@ -212,7 +212,7 @@
     "quantity": 200,
     "perServing": 25,
     "unit": "g",
-    "healthScore": 4,
+    "healthScore": 2,
     "category": "Dairy",
     "allergies": ["Milk"],
     "directions": ["Refrigerator"],
