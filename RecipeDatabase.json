@@ -1,0 +1,28 @@
+[
+  {
+    "name": "",
+    "author": "",
+    "thumbnailURL": "",
+    "difficultyLevel": 2,
+    "servings": 2,
+    "cookingSteps": [
+        {"ingredient": [
+            {"name": "", "quantity": "", "unit": ""},
+            {"name": "", "quantity": "", "unit": ""}
+        ], "tools": [{"name": ""}, {"name": ""}], "temperature": 100, "step": "", "duration": 100},
+        {"ingredient": [
+            {"name": "", "quantity": "", "unit": ""},
+            {"name": "", "quantity": "", "unit": ""}
+        ], "tools": [{"name": ""}, {"name": ""}], "temperature": 100, "step": "", "duration": 100}
+    ],
+    "introduction": "",
+    "NutritionalInformation": [
+            {"category": "Energy", "unit": "kJ", "quantity": 275},
+            {"category": "Protein", "unit": "g", "quantity": 3.3},
+            {"category": "Fat", "unit": "g", "quantity": 3.5},
+            {"category": "Carbohydrate", "unit": "g", "quantity": 5},
+            {"category": "Sugar", "unit": "g", "quantity": 4.7},
+            {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+            {"category": "Sodium", "unit": "mg", "quantity": 33}
+        ]
+]
