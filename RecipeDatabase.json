@@ -1,28 +1,43 @@
 [
   {
-    "name": "",
-    "author": "",
-    "thumbnailURL": "",
-    "difficultyLevel": 2,
-    "servings": 2,
+    "name": "Vegan Roast with Cranberry Glaze",
+    "author": "Nick Käseberg",
+    "thumbnailURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FVegan%20roast%20with%20cranberry%20glaze%2FVegan%20roast%20with%20cranberry%20glaze.heic?alt=media&token=9f3eeec9-c72c-481d-b88f-1595fbf01de5",
+    "difficultyLevel": 3,
+    "servings": 8,
     "cookingSteps": [
         {"ingredient": [
-            {"name": "", "quantity": "", "unit": ""},
-            {"name": "", "quantity": "", "unit": ""}
-        ], "tools": [{"name": ""}, {"name": ""}], "temperature": 100, "step": "", "duration": 100},
+            {"name": "Red Lentils", "quantity": "150", "unit": "g"},
+            {"name": "Onion", "quantity": "1", "unit": "Each"},
+            {"name": "Garlic", "quantity": "3", "unit": "Clove"},
+            {"name": "Brown Mushrooms", "quantity": "250", "unit": "g"},
+            {"name": "Carrot", "quantity": "1", "unit": "Each"}
+        ], "tools": [{"name": "Pot"}, {"name": "Cooking Spoon"}, {"name": "Knife"}, {"name": "Cutting Board"}, {"name": "Grater"}, {"name": "Frying Pan"}], "temperature": 100, "step": "Cook red lentils according to packet instructions. In the meantime, roughly dice onion, garlic, and mushrooms and grate carrot. Fry diced onion in a little bit of oil in a pan over medium-high for approx. 2 min. Add mushroom and lightly brown. Finally, add garlic and carrots and fry for approx. 2 more min. Then, remove from heat.", "duration": 240, "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FVegan%20roast%20with%20cranberry%20glaze%2Fstep%201.heic?alt=media&token=4d12992a-1bce-4be9-8801-7ebec48348f9"},
         {"ingredient": [
-            {"name": "", "quantity": "", "unit": ""},
-            {"name": "", "quantity": "", "unit": ""}
-        ], "tools": [{"name": ""}, {"name": ""}], "temperature": 100, "step": "", "duration": 100}
+            {"name": "Rolled Oats", "quantity": "100", "unit": "g"},
+            {"name": "Canned Kidney Beans (drained)", "quantity": "240", "unit": "g"},
+            {"name": "Walnuts", "quantity": "100", "unit": "g"},
+            {"name": "Thyme", "quantity": "1", "unit": "tbsp"},
+            {"name": "Rosemary", "quantity": "1", "unit": "tbsp"},
+            {"name": "Parsley", "quantity": "2", "unit": "tbsp"},
+            {"name": "Tomato Paste", "quantity": "2", "unit": "tbsp"},
+            {"name": "Mustard", "quantity": "1", "unit": "tbsp"},
+            {"name": "Soy Sauce", "quantity": "2", "unit": "tbsp"},
+            {"name": "Salt", "quantity": "1", "unit": "tbsp"},
+            {"name": "Pepper", "quantity": "1", "unit": "tbsp"}
+        ], "tools": [{"name": "Oven"}, {"name": "Food Processor"}], "temperature": 200, "step": "Preheat oven to 200°C/390°F convection. Put cooked red lentils, fried onions, mushrooms, carrot, and garlic in a food processor to coarsely puree with rolled oats, kidney beans, walnuts, thyme, rosemary, parsley, tomato paste, mustard, soy sauce, and a little salt and pepper until only a few small chunky pieces remain. The mixture should be sticky and hold together well. If it is a little dry, add approx. 2 tbsp of water each time, if it is too moist, blend more rolled oats in.", "duration": 600, "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FVegan%20roast%20with%20cranberry%20glaze%2Fstep%202.heic?alt=media&token=3673d3b6-a0ef-42a9-8c4a-d105c74c5df8"},
+        {"ingredient": [
+        ], "tools": [{"name": "Parchment Paper"}, {"name": "Baking Pan"}], "temperature": 200, "step": "Place a sheet of parchment paper in a loaf tin (20 cm/8 inch) with the long ends extended from the sides (to easily lift vegan roast out of the tin). Pour the chopped mixture into the loaf tin, press it down a little and smooth the surface. Bake vegan roast in the oven at 200°C/390°F for approx. 25 min.", "duration": 1500, "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FVegan%20roast%20with%20cranberry%20glaze%2Fstep%203.heic?alt=media&token=77dfc4e8-983c-4ebc-9534-110281b0b48a"},
+        {"ingredient": [
+            {"name": "Lingonberry Jam", "quantity": "2", "unit": "tbsp"},
+            {"name": "Ketchup", "quantity": "2", "unit": "tbsp"}
+        ], "tools": [{"name": "Bowl (small)"}], "temperature": 200, "step": "In the meantime, mix cranberries and ketchup together in a small bowl for the glaze. Spread glaze on vegan roast after approx. 25 min. of baking time. Continue to bake with the glaze for approx. 15 more min. Then let it cool for approx. 15 min. so that the mixture can set and everything sticks together well. Serve with vegan gravy, roast potatoes, and red cabbage.", "duration": 1920, "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FVegan%20roast%20with%20cranberry%20glaze%2Fstep%204.heic?alt=media&token=84e746b5-7883-4b6f-9954-24384e4e2ff6"}
     ],
-    "introduction": "",
+    "introduction": "This vegan roast is going to be a classic at the Christmas table because it’s not dry at all, not too fine or too coarse, and it packs a LOT of flavor. I came up with this recipe to be a very quick version of the classic meatloaf, and I was not disappointed. The red lentils provide a protein base, they have a beautiful color, and are cooked in 10 min. without soaking. You can also go for brown lentils but they take much longer. I kept the seasoning very classic, although the soy sauce is very important as it brings a fuller flavor than simply using salt. When pureeing, make sure that there are still a few small chunky pieces left at the end to get a good texture. Serve this vegan roast with cranberry glaze, roasted potatoes, red cabbage, and vegan gravy to have a vegan feast like no other! Tip: I took the vegan gravy from Marco's vegan cabbage rolls recipe, which you can also find on Kitchen Stories - it's simply delicious!",
     "NutritionalInformation": [
-            {"category": "Energy", "unit": "kJ", "quantity": 275},
-            {"category": "Protein", "unit": "g", "quantity": 3.3},
-            {"category": "Fat", "unit": "g", "quantity": 3.5},
-            {"category": "Carbohydrate", "unit": "g", "quantity": 5},
-            {"category": "Sugar", "unit": "g", "quantity": 4.7},
-            {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
-            {"category": "Sodium", "unit": "mg", "quantity": 33}
+            {"category": "Energy", "unit": "kJ", "quantity": 1187.46},
+            {"category": "Protein", "unit": "g", "quantity": 12},
+            {"category": "Fat", "unit": "g", "quantity": 12},
+            {"category": "Carbohydrate", "unit": "g", "quantity": 36}
         ]
 ]
