@@ -706,7 +706,7 @@
     "unit": "g",
     "healthScore": 4.5,
     "category": "Bakery",
-    "allergies": ["Gluten", "Soy", "Wheat"],
+    "allergies": ["Gluten", "Soy", "Wheat", "Sesame"],
     "directions": ["Cool", "Dry", "Freezer", "Refrigerator"],
     "NutritionalInformation": [
         {"category": "Energy", "unit": "kJ", "quantity": 968},
@@ -723,6 +723,32 @@
     "barcode": "9339423004809",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FBakery%2F9339423004809.heic?alt=media&token=d6e020a7-eb30-455a-85c8-d5f8ebeebdaa",
     "description": "This super soft and tasty loaf of Tip Top® The One® White Sandwich makes a great healthy option that kids will enjoy. It’s high in fibre, has the added benefits of essential Vitamins and Minerals and a 4.5 Health Star Rating. It’s the only one you need."
+  },
+
+  {
+    "name": "Woolworths White Soft Sandwich Bread 650g",
+    "quantity": 650,
+    "perServing": 59,
+    "unit": "g",
+    "healthScore": 4,
+    "category": "Bakery",
+    "allergies": ["Gluten", "Soy", "Wheat", "Sesame"],
+    "directions": ["Cool", "Dry", "Freezer", "Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 1040},
+        {"category": "Protein", "unit": "g", "quantity": 8.7},
+        {"category": "Fat", "unit": "g", "quantity": 2.6},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 44.7},
+        {"category": "Sugar", "unit": "g", "quantity": 3.6},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 4.7},
+        {"category": "Sodium", "unit": "mg", "quantity": 380}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 25,
+    "expireAfterOpening": 345600,
+    "barcode": "9300633636838",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FBakery%2F9300633636838.heic?alt=media&token=9e0fb3ba-39ea-4e30-a7d5-549dd1c821ee",
+    "description": "Wheat Flour, Water, Yeast, Wheat Fibre, Vinegar, I odised Salt, Canola Oil, Wheat Gluten, Soya Flour, Vegetable Emulsifier (472e, 481), Vitamins (Thiam in, Folic Acid), Processing Aid (Wheat)."
   },
 
 
