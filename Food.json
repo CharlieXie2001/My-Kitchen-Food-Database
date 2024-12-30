@@ -673,6 +673,58 @@
     "description": "Abbott’s Bakery is for those who see the kitchen as a playground to feed their creativity and evoke delight. Our premium, versatile range is made for makers to craft their edible masterpieces just the way they like."
   },
 
+  {
+    "name": "Wonder White Bread Vitamins & Minerals Sandwich 700g",
+    "quantity": 700,
+    "perServing": 74,
+    "unit": "g",
+    "healthScore": 4.5,
+    "category": "Bakery",
+    "allergies": ["Gluten", "Soy", "Wheat"],
+    "directions": ["Cool", "Dry", "Freezer", "Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 990},
+        {"category": "Protein", "unit": "g", "quantity": 8.3},
+        {"category": "Fat", "unit": "g", "quantity": 2.7},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 39.9},
+        {"category": "Sugar", "unit": "g", "quantity": 2.1},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 8.1},
+        {"category": "Sodium", "unit": "mg", "quantity": 350}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 25,
+    "expireAfterOpening": 345600,
+    "barcode": "9310023138705",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FBakery%2F9310023138705.heic?alt=media&token=d2a32d0d-cef9-452d-8ef5-60722940e1b9",
+    "description": "High fibre white sliced bread 1 serve provides 25% of the daily protein, fibre & iron needs for kids aged 4-8^ ^ 1 serve (2 slices). According to the Nutrient Reference Values for Australia and New Zealand for kids aged 4-8 (NHMRC 2006) Accessed May 2021 https://www.nrv.gov.au/nutrients Full of goodness to fuel their play. Wonder-fully soft, full of fibre, plus vitamins & minerals, for happy tummies and empty lunchboxes. Active Play Fuels energy to grow and play - Vitamin B1, Vitamin B6 Active Minds Cognitive function for sustained learning - Iron, Vitamin B3 Immunity Maintains normal immune function - Iron, Zinc Wonder-fully Strong Helps build muscle and bones - Protein, Zinc, Vitamin E Happy Tummy Supports digestive regularity - Fibre."
+  },
+
+  {
+    "name": "Tip Top The One White Sandwich Slice Bread Loaf Bakery 700g",
+    "quantity": 700,
+    "perServing": 74,
+    "unit": "g",
+    "healthScore": 4.5,
+    "category": "Bakery",
+    "allergies": ["Gluten", "Soy", "Wheat"],
+    "directions": ["Cool", "Dry", "Freezer", "Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 968},
+        {"category": "Protein", "unit": "g", "quantity": 9},
+        {"category": "Fat", "unit": "g", "quantity": 2.5},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 39},
+        {"category": "Sugar", "unit": "g", "quantity": 2},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 7.6},
+        {"category": "Sodium", "unit": "mg", "quantity": 380}
+    ],
+    "lowTemperature": 0,
+    "topTemperature": 25,
+    "expireAfterOpening": 345600,
+    "barcode": "9339423004809",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FBakery%2F9339423004809.heic?alt=media&token=d6e020a7-eb30-455a-85c8-d5f8ebeebdaa",
+    "description": "This super soft and tasty loaf of Tip Top® The One® White Sandwich makes a great healthy option that kids will enjoy. It’s high in fibre, has the added benefits of essential Vitamins and Minerals and a 4.5 Health Star Rating. It’s the only one you need."
+  },
+
 
 
 
