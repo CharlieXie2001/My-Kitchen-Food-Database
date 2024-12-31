@@ -74,7 +74,7 @@
         "name": "Einfache Eggs Benedict",
         "author": "Sebastian Graus",
         "thumbnailURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEinfache%20Eggs%20Benedict%2FEinfache%20Eggs%20Benedict.heic?alt=media&token=85598ef3-74e1-443b-90dd-f303d0b45b05",
-        "difficultyLevel": 6,
+        "difficultyLevel": 4,
         "servings": 4,
         "cookingSteps": [
             {
@@ -139,6 +139,74 @@
             {"category": "Protein", "unit": "g", "quantity": 28},
             {"category": "Fat", "unit": "g", "quantity": 69},
             {"category": "Carbohydrate", "unit": "g", "quantity": 30}
+        ]
+    },
+
+    {
+        "name": "Sweet and Sour Pork Ribs",
+        "author": "Yingpin",
+        "thumbnailURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FSweet%20and%20Sour%20Pork%20Ribs%2FSweet%20and%20sour%20pork%20ribs.heic?alt=media&token=f880ee19-218b-4e7e-8e6d-dc8166a2b902",
+        "difficultyLevel": 6,
+        "servings": 4,
+        "cookingSteps": [
+            {
+              "ingredient": [
+                {"name": "Pork Ribs", "quantity": 500, "unit": "g"},
+                {"name": "Cooking Wine", "quantity": 2, "unit": "tbsp"},
+                {"name": "Vegetable Oil", "quantity": 500, "unit": "mL"},
+                {"name": "Salt", "quantity": 0.5, "unit": "tbsp"},
+                {"name": "Pepper", "quantity": 0.25, "unit": "tbsp"},
+                {"name": "Garlic", "quantity": 1, "unit": "Clove"},
+                {"name": "Green Onion", "quantity": 2, "unit": "Each"},
+                {"name": "Ginger", "quantity": 10, "unit": "g"},
+                {"name": "Red Bell Pepper", "quantity": 0.5, "unit": "Each"},
+                {"name": "Green Bell Pepper", "quantity": 0.5, "unit": "Each"}
+            ], 
+              "tools": [{"name": "Wok"}, {"name": "Large Bowl"}, {"name": "Meat Cleaver"}, {"name": "Cutting Board"}], 
+              "temperature": 180, 
+              "step": "Clean ribs and chop into bite-sized pieces using a meat cleaver. Transfer to a bowl and marinate ribs in salt, pepper, and cooking wine for approx. 5 – 10 min. Add oil to wok and bring to temperature for frying over high heat. Mince garlic, cut green onion into fine rings, and mince ginger. Cut bell peppers into chunks.", 
+              "duration": 800, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FSweet%20and%20Sour%20Pork%20Ribs%2Fstep%201.heic?alt=media&token=08a4a952-016e-4cb5-9bae-c5aa8541f5c3"
+            },
+            {
+              "ingredient": [
+                {"name": "Potato Starch", "quantity": 50, "unit": "g"}
+            ], 
+              "tools": [], 
+              "temperature": 0, 
+              "step": "Sprinkle potato starch over ribs and mix thoroughly until ribs are evenly coated.", 
+              "duration": 60, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FSweet%20and%20Sour%20Pork%20Ribs%2Fstep%202.heic?alt=media&token=dffe4913-e90b-4bab-9828-37bbfb5fc5f8"
+            },
+            {
+              "ingredient": [], 
+              "tools": [{"name": "Sieve"}], 
+              "temperature": 180, 
+              "step": "Fry ribs in vegetable oil in a wok over high heat for approx. 3 – 5 min. until golden brown. Remove from heat and transfer to a sieve set over large bowl to drain oil. Remove any excess oil from wok.", 
+              "duration": 300, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FSweet%20and%20Sour%20Pork%20Ribs%2Fstep%203.heic?alt=media&token=0b7893e1-1d85-45a1-ae61-c2d819bfd529"
+            },
+            {
+              "ingredient": [
+                {"name": "Black Vinegar", "quantity": 3, "unit": "tbsp"},
+                {"name": "Sugar", "quantity": 3, "unit": "tbsp"},
+                {"name": "Water", "quantity": 155, "unit": "mL"},
+                {"name": "Salt", "quantity": 0.5, "unit": "tbsp"},
+                {"name": "Potato Starch", "quantity": 50, "unit": "g"}
+            ], 
+              "tools": [{"name": "Small Bowl"}], 
+              "temperature": 150, 
+              "step": "Add green garlic, ginger, and green onion to oil and sauté for approx. 1 min. Then, very carefully add vinegar, sugar, half of water, and salt, and stir to combine. While sauce cooks, combine potato starch and rest of water in small bowl. Return ribs to pan and cook for approx. 1 min. Add bell peppers and stir thoroughly to mix well. Add starch slurry, a bit at a time, to thicken sauce. Enjoy alone or on a bed of rice!", 
+              "duration": 360, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FSweet%20and%20Sour%20Pork%20Ribs%2Fstep%204.heic?alt=media&token=685dfda0-9949-4567-b3ff-798befa8ab3d"
+            }
+        ],
+        "introduction": "A beginner-friendly recipe for Chinese sweet and sour ribs. It provides a well-balanced condiment ratio, an approachable cooking method and delivers a restaurant standard result.",
+        "NutritionalInformation": [
+            {"category": "Energy", "unit": "kJ", "quantity": 1457.83},
+            {"category": "Protein", "unit": "g", "quantity": 30},
+            {"category": "Fat", "unit": "g", "quantity": 20},
+            {"category": "Carbohydrate", "unit": "g", "quantity": 7}
         ]
     }
 ]
