@@ -68,5 +68,77 @@
             {"category": "Fat", "unit": "g", "quantity": 12},
             {"category": "Carbohydrate", "unit": "g", "quantity": 36}
         ]
+    },
+
+    {
+        "name": "Einfache Eggs Benedict",
+        "author": "Sebastian Graus",
+        "thumbnailURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEinfache%20Eggs%20Benedict%2FEinfache%20Eggs%20Benedict.heic?alt=media&token=85598ef3-74e1-443b-90dd-f303d0b45b05",
+        "difficultyLevel": 6,
+        "servings": 4,
+        "cookingSteps": [
+            {
+              "ingredient": [
+                {"name": "Butter", "quantity": 250, "unit": "g"},
+                {"name": "Egg Yolks", "quantity": 4, "unit": "Each"},
+                {"name": "Lemon", "quantity": 0.5, "unit": "Each"},
+                {"name": "Salt", "quantity": 1, "unit": "tbsp"}
+            ], 
+              "tools": [{"name": "Saucepan"}, {"name": "Measuring Cup"}, {"name": "Hand Blender"}], 
+              "temperature": 50, 
+              "step": "For the sauce hollandaise, first melt the butter in a saucepan without it browning. Put the egg yolks, lemon juice and salt in a cup that fits a hand blender. With a running blender, slowly add the still warm, melted butter. Depending on the desired consistency, add a little water in tablespoons. Keep warm until serving.", 
+              "duration": 500, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEinfache%20Eggs%20Benedict%2Fstep%201.heic?alt=media&token=5b8fd4e6-8502-4cbb-80e8-124c9adf69d1"
+            },
+            {
+              "ingredient": [
+                {"name": "Toast Rolls", "quantity": 4, "unit": "Each"},
+                {"name": "Butter", "quantity": 100, "unit": "g"}
+            ], 
+              "tools": [{"name": "Pan Pliers"}], 
+              "temperature": 100, 
+              "step": "Melt some butter in a large pan, cut open the toast rolls, roast until golden brown and set aside.", 
+              "duration": 100, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEinfache%20Eggs%20Benedict%2Fstep%202.heic?alt=media&token=1fecbe19-b6ab-4478-ba31-d48f89a91437"
+            },
+            {
+              "ingredient": [
+                  {"name": "Cooked Ham", "quantity": 8, "unit": "Slice"}
+            ], 
+              "tools": [], 
+              "temperature": 160, 
+              "step": "Put the ham in the pan and cook for approx. Fry for 2–3 minutes until it is warmed and slightly colored. Remove and set aside.", 
+              "duration": 120, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEinfache%20Eggs%20Benedict%2Fstep%203.heic?alt=media&token=3df7cec8-abc5-42e9-aa9c-5698169c74f8"
+            },
+            {
+              "ingredient": [
+                {"name": "Eggs", "quantity": 8, "unit": "Each"}
+            ], 
+              "tools": [{"name": "Pot (large)"}, {"name": "Fine-mesh Sievebowl"}, {"name": "Foam Ladle"}], 
+              "temperature": 180, 
+              "step": "In the meantime, mix cranberries and ketchup together in a small bowl for the glaze. Spread glaze on vegan roast after approx. 25 min. of baking time. Continue to bake with the glaze for approx. 15 more min. Then let it cool for approx. 15 min. so that the mixture can set and everything sticks together well. Serve with vegan gravy, roast potatoes, and red cabbage.", 
+              "duration": 200, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEinfache%20Eggs%20Benedict%2Fstep%204.heic?alt=media&token=c64e3ddb-eccb-4f60-8e9e-d841d5c1cdb6"
+            },
+            {
+              "ingredient": [
+                {"name": "Salt", "quantity": 1, "unit": "tbsp"},
+                {"name": "Pepper", "quantity": 1, "unit": "tbsp"}
+            ], 
+              "tools": [], 
+              "temperature": 60, 
+              "step": "To serve the Eggs Benedict, place a slice of cooked ham on each half of the toast, place a poached egg on top and cover with hollandaise sauce. Season with salt and pepper and garnish with chives if desired.", 
+              "duration": 80, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEinfache%20Eggs%20Benedict%2Fstep%205.heic?alt=media&token=2dc5ffb8-822f-4c50-8406-fcc4622bfb27"
+            }
+        ],
+        "introduction": "Dieses Rezept wurde überarbeitet, um dein Kocherlebnis zu verbessern (März 2024). Eggs Benedict sind möglicherweise das perfekte Brunch-Gericht. Getoastete Toastbrötchen, perfekt pochierte Eier und eine seidige Sauce Hollandaise ergeben zusammen ein einfaches, aber beeindruckendes Gericht. Die Zubereitung von Sauce Hollandaise und pochierten Eiern kann eine kleine Herausforderung sein, aber in diesem Rezept wenden wir ein paar Tricks an, um den Prozess so einfach und kinderleicht wie möglich zu gestalten. Die Sauce Hollandaise in diesem Eggs Benedict-Rezept wird mit einem Stabmixer zubereitet – so musst du nicht befürchten, dass sie zerfällt! Zum Pochieren der Eier verwenden wir eine Methode, bei der der wässrige Teil des Eiweißes abgeseiht wird. So erhälst du jedes Mal perfekt pochierte Eier! Achte nur darauf, dass du frische Eier verwendest, denn das Eiweiß von älteren Eiern ist wässriger, was das Pochieren erschwert.",
+        "NutritionalInformation": [
+            {"category": "Energy", "unit": "kJ", "quantity": 3503.21},
+            {"category": "Protein", "unit": "g", "quantity": 28},
+            {"category": "Fat", "unit": "g", "quantity": 69},
+            {"category": "Carbohydrate", "unit": "g", "quantity": 30}
+        ]
     }
 ]
