@@ -2,6 +2,7 @@
     {
         "name": "Vegan Roast with Cranberry Glaze",
         "author": "Nick Käseberg",
+        "labels": ["Vegetarian"],
         "thumbnailURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FVegan%20roast%20with%20cranberry%20glaze%2FVegan%20roast%20with%20cranberry%20glaze.heic?alt=media&token=9f3eeec9-c72c-481d-b88f-1595fbf01de5",
         "difficultyLevel": 3,
         "servings": 8,
@@ -73,6 +74,7 @@
     {
         "name": "Einfache Eggs Benedict",
         "author": "Sebastian Graus",
+        "labels": ["Breakfast"],
         "thumbnailURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEinfache%20Eggs%20Benedict%2FEinfache%20Eggs%20Benedict.heic?alt=media&token=85598ef3-74e1-443b-90dd-f303d0b45b05",
         "difficultyLevel": 4,
         "servings": 4,
@@ -145,6 +147,7 @@
     {
         "name": "Sweet and Sour Pork Ribs",
         "author": "Yingpin",
+        "labels": ["Chinese"],
         "thumbnailURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FSweet%20and%20Sour%20Pork%20Ribs%2FSweet%20and%20sour%20pork%20ribs.heic?alt=media&token=f880ee19-218b-4e7e-8e6d-dc8166a2b902",
         "difficultyLevel": 6,
         "servings": 4,
