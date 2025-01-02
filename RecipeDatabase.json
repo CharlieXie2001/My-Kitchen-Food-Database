@@ -32,7 +32,7 @@
                 {"name": "Tomato Paste", "quantity": 2, "unit": "tbsp"},
                 {"name": "Mustard", "quantity": 1, "unit": "tbsp"},
                 {"name": "Soy Sauce", "quantity": 2, "unit": "tbsp"},
-                {"name": "Salt", "quantity": 1, "unit": "tbsp"},
+                {"name": "Salt", "quantity": 1, "unit": "tsp"},
                 {"name": "Pepper", "quantity": 1, "unit": "tbsp"}
             ], 
               "tools": [{"name": "Oven"}, {"name": "Food Processor"}], 
@@ -84,7 +84,7 @@
                 {"name": "Butter", "quantity": 250, "unit": "g"},
                 {"name": "Egg Yolks", "quantity": 4, "unit": "Each"},
                 {"name": "Lemon", "quantity": 0.5, "unit": "Each"},
-                {"name": "Salt", "quantity": 1, "unit": "tbsp"}
+                {"name": "Salt", "quantity": 1, "unit": "tsp"}
             ], 
               "tools": [{"name": "Saucepan"}, {"name": "Measuring Cup"}, {"name": "Hand Blender"}], 
               "temperature": 50, 
@@ -125,8 +125,8 @@
             },
             {
               "ingredient": [
-                {"name": "Salt", "quantity": 1, "unit": "tbsp"},
-                {"name": "Pepper", "quantity": 1, "unit": "tbsp"}
+                {"name": "Salt", "quantity": 1, "unit": "tsp"},
+                {"name": "Pepper", "quantity": 1, "unit": "tsp"}
             ], 
               "tools": [], 
               "temperature": 60, 
@@ -157,8 +157,8 @@
                 {"name": "Pork Ribs", "quantity": 500, "unit": "g"},
                 {"name": "Cooking Wine", "quantity": 2, "unit": "tbsp"},
                 {"name": "Vegetable Oil", "quantity": 500, "unit": "mL"},
-                {"name": "Salt", "quantity": 0.5, "unit": "tbsp"},
-                {"name": "Pepper", "quantity": 0.25, "unit": "tbsp"},
+                {"name": "Salt", "quantity": 0.5, "unit": "tsp"},
+                {"name": "Pepper", "quantity": 0.25, "unit": "tsp"},
                 {"name": "Garlic", "quantity": 1, "unit": "Clove"},
                 {"name": "Green Onion", "quantity": 2, "unit": "Each"},
                 {"name": "Ginger", "quantity": 10, "unit": "g"},
@@ -194,7 +194,7 @@
                 {"name": "Black Vinegar", "quantity": 3, "unit": "tbsp"},
                 {"name": "Sugar", "quantity": 3, "unit": "tbsp"},
                 {"name": "Water", "quantity": 155, "unit": "mL"},
-                {"name": "Salt", "quantity": 0.5, "unit": "tbsp"},
+                {"name": "Salt", "quantity": 0.5, "unit": "tsp"},
                 {"name": "Potato Starch", "quantity": 50, "unit": "g"}
             ], 
               "tools": [{"name": "Small Bowl"}], 
@@ -210,6 +210,95 @@
             {"category": "Protein", "unit": "g", "quantity": 30},
             {"category": "Fat", "unit": "g", "quantity": 20},
             {"category": "Carbohydrate", "unit": "g", "quantity": 7}
+        ]
+    },
+
+    {
+        "name": "Eggplant Parmesan",
+        "author": "Carolin Roitzheim",
+        "labels": ["Italian"],
+        "thumbnailURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEggplant%20Parmesan%2FEggplant%20Parmesan.heic?alt=media&token=f136ed89-b0f8-4cb4-95eb-4b835e802593",
+        "difficultyLevel": 6,
+        "servings": 8,
+        "cookingSteps": [
+            {
+              "ingredient": [
+                {"name": "Eggplants", "quantity": 3, "unit": "Each"},
+                {"name": "Mozzarella Cheese", "quantity": 450, "unit": "g"},
+                {"name": "Onion", "quantity": 1, "unit": "Each"},
+                {"name": "Garlic", "quantity": 1, "unit": "Clove"},
+                {"name": "Rosemary", "quantity": 1, "unit": "Sprig"},
+                {"name": "Salt", "quantity": 1, "unit": "tsp"}
+            ], 
+              "tools": [{"name": "Cutting Board"}, {"name": "Knife"}, {"name": "Colander"}], 
+              "temperature": 0, 
+              "step": "Cut the eggplants lengthwise into slices approx. 0.5 cm/2 in. thick, transfer to a colander, season with salt and set aside to release moisture. Cut the mozzarella into slices equal in thickness to the eggplant and set aside. Finely dice the onion and chop the garlic. Roughly chop the rosemary.", 
+              "duration": 1440, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEggplant%20Parmesan%2Fstep%201.heic?alt=media&token=f4ac20bf-5896-46d4-b3f2-124e8e439f3b"
+            },
+            {
+              "ingredient": [
+                {"name": "Tomato Paste", "quantity": 1, "unit": "tbsp"},
+                {"name": "Olive Oil", "quantity": 10, "unit": "g"}
+            ], 
+              "tools": [{"name": "Saucepan (large)"}, {"name": "Cooking Spoon"}], 
+              "temperature": 140, 
+              "step": "Heat some olive oil in a large pan. Add onions and garlic and fry over medium heat for approx. 5–7 min. until translucent. Add the tomato paste and fry for another approx. 1–2 min.", 
+              "duration": 360, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEggplant%20Parmesan%2Fstep%202.heic?alt=media&token=a3ba65a0-32a2-4b69-b8dc-a967fe12f31a"
+            },
+            {
+              "ingredient": [
+                  {"name": "Canned Crushed Tomatoes", "quantity": 800, "unit": "g"},
+                  {"name": "Dried Oregano", "quantity": 1, "unit": "tsp"},
+                  {"name": "Dried Thyme", "quantity": 1, "unit": "tsp"},
+                  {"name": "Salt", "quantity": 1, "unit": "tsp"},
+                  {"name": "Pepper", "quantity": 1, "unit": "tsp"}
+            ], 
+              "tools": [], 
+              "temperature": 85, 
+              "step": "Add the canned tomatoes to the pan and bring to a boil. Add salt, pepper, oregano, thyme and rosemary to the tomato sauce. Let simmer for approx. 10–15 min.", 
+              "duration": 900, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEggplant%20Parmesan%2Fstep%203.heic?alt=media&token=ce7a8399-b232-4b5f-b4eb-4f47092418fa"
+            },
+            {
+              "ingredient": [
+                {"name": "Olive Oil", "quantity": 20, "unit": "g"},
+                {"name": "Flour", "quantity": 20, "unit": "g"}
+            ], 
+              "tools": [{"name": "Frying Pan (large)"}, {"name": "Plate"}, {"name": "Tongs"}, {"name": "Paper Towels"}], 
+              "temperature": 160, 
+              "step": "Meanwhile, add a generous amount of olive oil to a frying pan and heat over medium heat. Pat the aubergine slices dry, then dredge in flour, shake off any excess and fry for approx. 2–3 min. per side until golden brown. Leave to drain on paper towels and set aside.", 
+              "duration": 600, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEggplant%20Parmesan%2Fstep%204.heic?alt=media&token=75e8431e-c07b-4cd2-82a5-2f99712feaca"
+            },
+            {
+              "ingredient": [
+                {"name": "Parmesan Cheese", "quantity": 20, "unit": "g"}
+            ], 
+              "tools": [{"name": "Baking Dish"}, {"name": "Grater"}], 
+              "temperature": 180, 
+              "step": "Preheat the oven to 180°C/350 °F. In a baking dish, build layers in the following order: Tomato sauce, eggplant, mozzarella and a little grated Parmesan on top. Repeat approx. 1–2 times, depending on the size of your baking dish.", 
+              "duration": 900, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEggplant%20Parmesan%2Fstep%205.heic?alt=media&token=f9624da0-cba0-4eb8-9ec7-dc0d598782ec"
+            },
+            {
+              "ingredient": [
+                {"name": "Parmesan Cheese", "quantity": 100, "unit": "g"}
+            ], 
+              "tools": [], 
+              "temperature": 180, 
+              "step": "Finally, cover with freshly grated Parmesan cheese. Place in the preheated oven and bake for approx. 20–25 min. until golden brown. Garnish with fresh basil leaves and enjoy warm!", 
+              "duration": 1500, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FEggplant%20Parmesan%2Fstep%206.heic?alt=media&token=d7de4ddc-3505-41a2-8305-46a22a74b138"
+            }
+        ],
+        "introduction": "This recipe has been updated to improve your cooking experience (November 2023). Parmigiana di Melanzane is Italian comfort food at its best: slices of eggplant, aromatic tomato sauce and melty, crispy cheese come together in the oven to create an irresistible eggplant bake. The dish originates in the sunny south of Italy, in Campania and Sicily. Depending on the region, there are many variations of the dish. After all, it's often a family recipe that has been passed down through many generations with individual twists and tweaks along the way. Some like to add a layer of cooked ham or mortadella, while others insist on boiled eggs to create an additional texture and flavor. Various cheeses such as (buffalo) mozzarella or caciocavallo are also popular, but Parmesan is a must! Some recipes call for the eggplant to be peeled first, but we prefer not to. We've opted for this simple but no less authentic version of Parmigiana di Melanzane: eggplants, tomato sauce and plenty of cheese - basta!",
+        "NutritionalInformation": [
+            {"category": "Energy", "unit": "Cal", "quantity": 331},
+            {"category": "Protein", "unit": "g", "quantity": 22},
+            {"category": "Fat", "unit": "g", "quantity": 18},
+            {"category": "Carbohydrate", "unit": "g", "quantity": 24}
         ]
     }
 ]
