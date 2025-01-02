@@ -300,5 +300,64 @@
             {"category": "Fat", "unit": "g", "quantity": 18},
             {"category": "Carbohydrate", "unit": "g", "quantity": 24}
         ]
+    },
+
+    {
+        "name": "Mango Lassi",
+        "author": "Kitchen Stories",
+        "labels": ["Drinks", "Indian"],
+        "thumbnailURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FMango%20Lassi%2FMango%20lassi.heic?alt=media&token=00f7d12b-52ae-4a8e-9a18-fa66125b7dac",
+        "difficultyLevel": 3,
+        "servings": 2,
+        "cookingSteps": [
+            {
+              "ingredient": [
+                {"name": "Mangoes", "quantity": 4, "unit": "Each"}
+            ], 
+              "tools": [{"name": "Knife"}, {"name": "Cutting Board"}], 
+              "temperature": 0, 
+              "step": "Peel and cut mangoes into cubes.", 
+              "duration": 480, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FMango%20Lassi%2Fstep%201.heic?alt=media&token=67c906bc-689f-45e9-88af-f5c036a865ae"
+            },
+            {
+              "ingredient": [
+                {"name": "Ice Cubes", "quantity": 5, "unit": "Each"},
+                {"name": "Water", "quantity": 200, "unit": "mL"},
+                {"name": "Honey", "quantity": 1, "unit": "tbsp"},
+                {"name": "Pure Yogurt", "quantity": 300, "unit": "g"}
+            ], 
+              "tools": [{"name": "Blender"}], 
+              "temperature": 0, 
+              "step": "Add mangoes, ice cubes, cold water, honey, and yogurt to blender.", 
+              "duration": 120, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FMango%20Lassi%2Fstep%202.heic?alt=media&token=cce85bd5-7b63-4a3d-bc7f-ed45d591682f"
+            },
+            {
+              "ingredient": [], 
+              "tools": [{"name": "Blender"}], 
+              "temperature": 0, 
+              "step": "Blend on high until smooth, approx. 2 – 3 min.", 
+              "duration": 180, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FMango%20Lassi%2Fstep%203.heic?alt=media&token=43f63302-dd67-4e1a-906a-50a87b751241"
+            },
+            {
+              "ingredient": [
+                {"name": "Coconut Milk", "quantity": 100, "unit": "mL"}
+            ], 
+              "tools": [{"name": "Blender"}], 
+              "temperature": 0, 
+              "step": "Add coconut milk and blend to combine, approx. 1 – 2 min. Enjoy immediately.", 
+              "duration": 120, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FMango%20Lassi%2Fstep%204.heic?alt=media&token=daecc6ca-7d5c-44c4-873b-fea43051ef8e"
+            }
+        ],
+        "introduction": "The basic recipe for the Indian yogurt drink (most popular and originating in the state of Uttar Pradesh in northern India) usually consists of water (or milk), yogurt, spice, and fruit. The sweeter, fruitier versions additionally can contain sugar or honey and some fruit juice or pureed fruit. This mango version uses fresh mango and honey as well as coconut milk for extra flavor and silky texture.",
+        "NutritionalInformation": [
+            {"category": "Energy", "unit": "Cal", "quantity": 488},
+            {"category": "Protein", "unit": "g", "quantity": 10},
+            {"category": "Fat", "unit": "g", "quantity": 16},
+            {"category": "Carbohydrate", "unit": "g", "quantity": 81}
+        ]
     }
 ]
