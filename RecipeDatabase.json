@@ -359,5 +359,86 @@
             {"category": "Fat", "unit": "g", "quantity": 16},
             {"category": "Carbohydrate", "unit": "g", "quantity": 81}
         ]
+    },
+
+    {
+        "name": "Classic Steak au Poivre",
+        "author": "Christian Ruß",
+        "labels": ["French"],
+        "thumbnailURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FClassic%20steak%20au%20poivre%20(French%20pepper%20steak)%20with%20mashed%20potatoes%20and%20green%20bean%20bundles%2FClassic%20steak%20au%20poivre%20(French%20pepper%20steak)%20with%20mashed%20potatoes%20and%20green%20bean%20bundles.heic?alt=media&token=c2f8d915-b56f-49ab-9e67-fd5259b0da3c",
+        "difficultyLevel": 6,
+        "servings": 2,
+        "cookingSteps": [
+            {
+              "ingredient": [
+                {"name": "Potatoes", "quantity": 500, "unit": "g"},
+                {"name": "Shallot", "quantity": 1, "unit": "Each"},
+                {"name": "Green beans", "quantity": 150, "unit": "g"},
+                {"name": "Salt", "quantity": 1, "unit": "tsp"}
+            ], 
+              "tools": [{"name": "Knife"}, {"name": "Cutting Board"}, {"name": "Peeler"}, {"name": "Pot"}], 
+              "temperature": 90, 
+              "step": "Peel and dice potatoes, chop shallot, and trim green beans. Add potatoes to a pot with cold water. Add salt and cook over medium heat for approx. 15 – 20 min. or until soft.", 
+              "duration": 1400, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FClassic%20steak%20au%20poivre%20(French%20pepper%20steak)%20with%20mashed%20potatoes%20and%20green%20bean%20bundles%2FStep%201.heic?alt=media&token=181d58db-b7e7-478d-8ed6-68dd6e65497b"
+            },
+            {
+              "ingredient": [
+                {"name": "Heavy Cream", "quantity": 100, "unit": "mL"},
+                {"name": "Unsalted Butter", "quantity": 50, "unit": "g"},
+                {"name": "Salt", "quantity": 1, "unit": "tsp"},
+                {"name": "Ground Nutmeg", "quantity": 1, "unit": "tsp"}
+            ], 
+              "tools": [{"name": "Sieve"}, {"name": "Cooking Spoon"}, {"name": "Potato Ricer"}, {"name": "Pot"}], 
+              "temperature": 50, 
+              "step": "Add cream and butter to a pot over low heat and season with salt and nutmeg. Keep it warm. Once potatoes are done, drain and use a potato ricer to purée. Add cream-butter mixture to the potatoes and mix to combine.", 
+              "duration": 300, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FClassic%20steak%20au%20poivre%20(French%20pepper%20steak)%20with%20mashed%20potatoes%20and%20green%20bean%20bundles%2FStep%202.heic?alt=media&token=d4407733-f7ca-419b-bed1-12dd55dc94f8"
+            },
+            {
+              "ingredient": [
+                  {"name": "Bacon", "quantity": 6, "unit": "Slice"}
+              ], 
+              "tools": [{"name": "Sieve"}], 
+              "temperature": 100, 
+              "step": "Blanch green beans for 5 min. in boiling water, then drain and rinse under cold water until cool to the touch. Wrap bacon around a bundle of green beans. Repeat the process until all green beans have been used.", 
+              "duration": 700, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FClassic%20steak%20au%20poivre%20(French%20pepper%20steak)%20with%20mashed%20potatoes%20and%20green%20bean%20bundles%2FStep%203.heic?alt=media&token=cf30e450-c558-4a2f-8909-28c80965c04f"
+            },
+            {
+              "ingredient": [
+                {"name": "Black Peppercorns", "quantity": 20, "unit": "g"},
+                {"name": "Filet Mignon", "quantity": 500, "unit": "g"}
+            ], 
+              "tools": [
+                  {"name": "Mortar and Pestle"},
+                  {"name": "Frying Pan"},
+                  {"name": "Tongs"}
+              ], 
+              "temperature": 170, 
+              "step": "Crush peppercorns with a mortar and pestle and season filet mignon steaks with pepper on both sides. Add wrapped green beans to a frying pan over medium-high heat and fry for approx. 5 min. or until brown on all sides, then remove from pan. Add oil to the same pan, add steaks, and fry for approx. 3 min. on each side, then remove from pan. Add more oil and fry shallot for approx. 3 min.", 
+              "duration": 900, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FClassic%20steak%20au%20poivre%20(French%20pepper%20steak)%20with%20mashed%20potatoes%20and%20green%20bean%20bundles%2FStep%204.heic?alt=media&token=27d0533a-5e41-4fb8-a247-bc96986e5db0"
+            },
+            {
+              "ingredient": [
+                {"name": "Cognac", "quantity": 100, "unit": "mL"},
+                {"name": "Heavy Cream", "quantity": 200, "unit": "mL"},
+                {"name": "Unsalted Butter", "quantity": 30, "unit": "g"}
+            ], 
+              "tools": [], 
+              "temperature": 160, 
+              "step": "Deglaze pan with Cognac, add remaining cream and butter and let cook until creamy, approx. 8 – 10 min. Transfer the steaks back to the pan and cook briefly. Sprinkle with our MEAT LOVER seasoning if liking, serve steaks with mashed potatoes and bacon-wrapped green beans, and drizzle with more sauce before serving. Enjoy!", 
+              "duration": 700, 
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FClassic%20steak%20au%20poivre%20(French%20pepper%20steak)%20with%20mashed%20potatoes%20and%20green%20bean%20bundles%2FStep%205.heic?alt=media&token=b575e763-d01f-4490-9cb5-15e2fc320fbf"
+            }
+        ],
+        "introduction": "Want a shortcut with more flavors? Try our MEAT LOVER seasoning in this recipe! Bon appétit! This delicious French classic is easy to prepare and doesn’t take too long. By the late 1800s, when Cambodia was integrated into the French Indochina union, the French traded the precious Kampot black peppercorn globally and it became a mainstay in reputable French kitchens. If you can find them, use those peppercorns for this recipe, otherwise black peppercorns will work. Traditionally, the pepper-crusted beef tenderloin is served with a pan peppercorn sauce and potatoes.",
+        "NutritionalInformation": [
+            {"category": "Energy", "unit": "Cal", "quantity": 833},
+            {"category": "Protein", "unit": "g", "quantity": 48},
+            {"category": "Fat", "unit": "g", "quantity": 53},
+            {"category": "Carbohydrate", "unit": "g", "quantity": 29}
+        ]
     }
 ]
