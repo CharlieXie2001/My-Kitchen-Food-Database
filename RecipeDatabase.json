@@ -440,5 +440,74 @@
             {"category": "Fat", "unit": "g", "quantity": 53},
             {"category": "Carbohydrate", "unit": "g", "quantity": 29}
         ]
+    },
+    
+    {
+        "name": "Hearty Roasted Potato Soup",
+        "author": "Marco Hartz",
+        "labels": ["American"],
+        "thumbnailURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FHearty%20Roasted%20Potato%20Soup%2Fearty%20roasted%20potato%20soup.heic?alt=media&token=5a024d59-b25c-46b4-b10b-81f46da6a929",
+        "difficultyLevel": 4,
+        "servings": 4,
+        "cookingSteps": [
+            {
+              "ingredient": [
+                {"name": "All-Rounder Potatoes", "quantity": 900, "unit": "g"},
+                {"name": "Onion", "quantity": 1, "unit": "Each"},
+                {"name": "Garlic", "quantity": 1, "unit": "Clove"},
+                {"name": "Leeks", "quantity": 200, "unit": "g"},
+                {"name": "Celery", "quantity": 100, "unit": "g"},
+                {"name": "Parsley", "quantity": 10, "unit": "g"}
+            ],
+              "tools": [{"name": "Knife"}, {"name": "Cutting Board"}, {"name": "Peeler"}],
+              "temperature": 0,
+              "step": "Peel and dice the potatoes. Peel and finely chop the onion and garlic. Wash and slice the leek. Finely chop parsley and dice celery.",
+              "duration": 700,
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FHearty%20Roasted%20Potato%20Soup%2Fearty%20roasted%20potato%20soup.heic?alt=media&token=5a024d59-b25c-46b4-b10b-81f46da6a929"
+            },
+            {
+              "ingredient": [
+                {"name": "Oil", "quantity": 2, "unit": "tbsp"},
+                {"name": "Vegetable broth", "quantity": 1, "unit": "l"},
+                {"name": "Dried Marjoram", "quantity": 1, "unit": "tsp"}
+            ],
+              "tools": [{"name": "Frying Pan (large)"}, {"name": "Pot"}],
+              "temperature": 150,
+              "step": "Heat the oil in a large pan. Add potatoes and fry from all sides until golden brown. Add onion and garlic and fry until the onion is translucent. Pour the contents of the pan into a large pot. Add leek and celery, deglaze with vegetable stock and add dried marjoram. Cover and simmer for approx. 30 min.",
+              "duration": 2400,
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FHearty%20Roasted%20Potato%20Soup%2Fearty%20roasted%20potato%20soup.heic?alt=media&token=5a024d59-b25c-46b4-b10b-81f46da6a929"
+            },
+            {
+              "ingredient": [
+                  {"name": "Bacon", "quantity": 200, "unit": "g"},
+                  {"name": "Heavy Cream", "quantity": 400, "unit": "mL"},
+                  {"name": "Dijon mustard", "quantity": 1, "unit": "tsp"},
+                  {"name": "Salt", "quantity": 1, "unit": "tsp"},
+                  {"name": "Pepper", "quantity": 1, "unit": "tsp"}
+              ],
+              "tools": [{"name": "Frying Pan"}, {"name": "Immersion Blender"}],
+              "temperature": 150,
+              "step": "Meanwhile, fry bacon in a separate pan until crispy. At the end of the cooking time, add cream to the remaining vegetables and puree the contents with an immersion blender until very smooth. Add the diced bacon to the soup and season with mustard, salt, pepper and nutmeg.",
+              "duration": 600,
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FHearty%20Roasted%20Potato%20Soup%2Fearty%20roasted%20potato%20soup.heic?alt=media&token=5a024d59-b25c-46b4-b10b-81f46da6a929"
+            },
+            {
+              "ingredient": [],
+              "tools": [
+                  {"name": "serrated knife"}
+              ],
+              "temperature": 150,
+              "step": "Keep the potato soup warm. Meanwhile, cut baguette into thin slices. Heat a little oil in the pan you roasted potatoes and fry the bread slices from both sides until crispy and golden brown. Season generously with coarse pepper. Transfer the soup to bowls. Garnish with chopped parsley and a little sour cream and serve with the crispy bread.",
+              "duration": 500,
+              "stepImageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Recipe%20Image%2FHearty%20Roasted%20Potato%20Soup%2Fearty%20roasted%20potato%20soup.heic?alt=media&token=5a024d59-b25c-46b4-b10b-81f46da6a929"
+            }
+        ],
+        "introduction": "Why didn't I come up with this idea sooner? With this recipe, take your potato soup to a whole new level and coziness. As the name suggests, the potatoes are fried before being processed into the soup. This makes for a more intense taste full of roasted aromas, which ensures that your soup has a more complex flavor. It also has a creamier texture - perfect for warming your soul from the inside out on these cold days.",
+        "NutritionalInformation": [
+            {"category": "Energy", "unit": "Cal", "quantity": 996},
+            {"category": "Protein", "unit": "g", "quantity": 24},
+            {"category": "Fat", "unit": "g", "quantity": 60},
+            {"category": "Carbohydrate", "unit": "g", "quantity": 95}
+        ]
     }
 ]
