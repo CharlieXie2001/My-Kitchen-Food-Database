@@ -1389,5 +1389,37 @@
     "barcode": "8859015701707",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FJuice%2F8859015701707.heic?alt=media&token=58ffe197-189b-46c5-9086-ba226011ad3f",
     "description": "Refreshing coconut water with a little bits (coconut pulp) more to enjoy."
+  },
+  
+  
+  
+  
+  
+  
+  
+  {
+    "name": "Absolut Vodka",
+    "quantity": 1000,
+    "perServing": 31.25,
+    "unit": "mL",
+    "healthScore": 2,
+    "category": "Alcohol",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 966},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 0},
+        {"category": "Sugar", "unit": "g", "quantity": 0},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 0}
+    ],
+    "lowTemperature": 10,
+    "topTemperature": 25,
+    "expireAfterOpening": PositiveInfinity,
+    "barcode": "Absolut Vodka",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FAlcohol%2FAbsolut%20Vodka.heic?alt=media&token=4c7b2715-d45c-41a5-be81-f4edae30352f",
+    "description": "A classic and much loved vodka from Sweden, Absolut is made using the purest Swedish water which makes it super smooth and clean to drink. With a tradition of vodka production that goes back over 400 years, it's no wonder Absolut has nailed it with a vodka of this quality."
   }
 ]
