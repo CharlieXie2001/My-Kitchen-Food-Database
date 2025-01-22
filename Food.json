@@ -1421,5 +1421,57 @@
     "barcode": "Absolut Vodka",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FAlcohol%2FAbsolut%20Vodka.heic?alt=media&token=4c7b2715-d45c-41a5-be81-f4edae30352f",
     "description": "A classic and much loved vodka from Sweden, Absolut is made using the purest Swedish water which makes it super smooth and clean to drink. With a tradition of vodka production that goes back over 400 years, it's no wonder Absolut has nailed it with a vodka of this quality."
+  },
+  
+  {
+    "name": "Absolut Mosaik",
+    "quantity": 1000,
+    "perServing": 31.25,
+    "unit": "mL",
+    "healthScore": 2,
+    "category": "Alcohol",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 966},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 0},
+        {"category": "Sugar", "unit": "g", "quantity": 0},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 0}
+    ],
+    "lowTemperature": 10,
+    "topTemperature": 25,
+    "expireAfterOpening": 9999999999,
+    "barcode": "Absolut Vodka",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FAlcohol%2FAbsolut%20Mosaik.heic?alt=media&token=1acc10f9-713f-4ccd-8019-ac8e4eb53e7c",
+    "description": "Just like a mosaic, where every piece is unique and together creates something beautiful, the bottle itself is the representation of inclusivity and diversity. Highlighting the importance of coming together and further bringing our Born To Mix message to the world."
+  },
+  
+  {
+    "name": "Absolut Passionfruit",
+    "quantity": 1000,
+    "perServing": 31.25,
+    "unit": "mL",
+    "healthScore": 2,
+    "category": "Alcohol",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 966},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 0},
+        {"category": "Sugar", "unit": "g", "quantity": 0},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 0}
+    ],
+    "lowTemperature": 10,
+    "topTemperature": 25,
+    "expireAfterOpening": 9999999999,
+    "barcode": "Absolut Vodka",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FAlcohol%2FAbsolut%20Passionfruit.heic?alt=media&token=7f051bbb-f4e9-4e70-b4a4-9ec5bc241510",
+    "description": "With an exotic flavour mix of passionfruit and orange blossom this one is a perfect fit for any occasion, from night time parties with friends to being enjoyed on a sunny afternoon as the perfect Spritz. Putting a face to the name, the bottle design features freehand brush strokes and vibrant colors that abstractly and – if we may say so ourselves – very beautifully visualizes the essence of passionfruit. Getting to know Absolut Passionfruit is easy. Just add some lemonade, mango and lime juice into an ice filled highball glass, garnish it with lime wheel and pineapple’s leaf and you’ve got yourself a Passion for Days. And this is just one of many."
   }
 ]
