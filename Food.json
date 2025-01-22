@@ -1499,5 +1499,57 @@
     "barcode": "Absolut Rainbow",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FAlcohol%2FAbsolut%20Rainbow.heic?alt=media&token=df8016f6-2825-4a8e-a166-4e10cd09d28e",
     "description": "Since the early 1980’s, we have been supporting the LGBTQ+ community as part of our strong belief that people should be free to love who they choose, and everyone should be free to express themselves."
+  },
+  
+  {
+    "name": "Absolut Vanilia",
+    "quantity": 1000,
+    "perServing": 31.25,
+    "unit": "mL",
+    "healthScore": 2,
+    "category": "Alcohol",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 966},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 0},
+        {"category": "Sugar", "unit": "g", "quantity": 0},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 0}
+    ],
+    "lowTemperature": 10,
+    "topTemperature": 25,
+    "expireAfterOpening": 9999999999,
+    "barcode": "Absolut Vanilia",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FAlcohol%2FAbsolut%20Vanilia.heic?alt=media&token=00f1ad46-a504-4037-8f3d-75465347de72",
+    "description": "Absolut Vanilia is a vanilla-flavored vodka that’s delectable, warm and inviting. Perfect for crafting cocktails like the Pornstar Martini, Vanilia Espresso Martini, and Absolut Vanilia with Cola."
+  },
+  
+  {
+    "name": "Absolut Lime",
+    "quantity": 1000,
+    "perServing": 31.25,
+    "unit": "mL",
+    "healthScore": 2,
+    "category": "Alcohol",
+    "allergies": [],
+    "directions": ["Cool", "Dry"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 966},
+        {"category": "Protein", "unit": "g", "quantity": 0},
+        {"category": "Fat", "unit": "g", "quantity": 0},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 0},
+        {"category": "Sugar", "unit": "g", "quantity": 0},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 0}
+    ],
+    "lowTemperature": 10,
+    "topTemperature": 25,
+    "expireAfterOpening": 9999999999,
+    "barcode": "Absolut Lime",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FAlcohol%2FAbsolut%20Lime.heic?alt=media&token=b6a489cb-7462-4d6d-b57c-1173f8562ea3",
+    "description": "Thirty years after the “Cosmo” hero Absolut Citron not only stirred but shook the world of mixology, its apprentice was brought to life to the satisfaction of bartenders and drink lovers. Since the launch of Absolut Lime with its natural and not overly-sweet flavour, bartenders and “trytobees” at home have one less thing to think about when trying to impress their guests with that perfectly balanced drink. Cheers to another citrus sibling that brings to both classic and new drinks a unique character and an Absolut twist! While we’re on the subject, the Absolut Lime Vodkarita or Absolut Lime Mule never disappoint."
   }
 ]
