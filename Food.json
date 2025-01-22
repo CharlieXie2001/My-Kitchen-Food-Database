@@ -1417,7 +1417,7 @@
     ],
     "lowTemperature": 10,
     "topTemperature": 25,
-    "expireAfterOpening": "PositiveInfinity",
+    "expireAfterOpening": 1e9999,
     "barcode": "Absolut Vodka",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FAlcohol%2FAbsolut%20Vodka.heic?alt=media&token=4c7b2715-d45c-41a5-be81-f4edae30352f",
     "description": "A classic and much loved vodka from Sweden, Absolut is made using the purest Swedish water which makes it super smooth and clean to drink. With a tradition of vodka production that goes back over 400 years, it's no wonder Absolut has nailed it with a vodka of this quality."
