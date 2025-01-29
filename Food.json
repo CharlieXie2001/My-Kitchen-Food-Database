@@ -1,4 +1,30 @@
 [
+    {
+    "name": "Western Star Original Spreadable Butter Blend Tub 500g",
+    "quantity": 500,
+    "perServing": 5,
+    "unit": "g",
+    "healthScore": 3,
+    "category": "Dairy",
+    "allergies": ["Milk", "Soy"],
+    "directions": ["Refrigerator"],
+    "NutritionalInformation": [
+        {"category": "Energy", "unit": "kJ", "quantity": 2570},
+        {"category": "Protein", "unit": "g", "quantity": 1},
+        {"category": "Fat", "unit": "g", "quantity": 68.4},
+        {"category": "Carbohydrate", "unit": "g", "quantity": 1.2},
+        {"category": "Sugar", "unit": "g", "quantity": 1.2},
+        {"category": "Dietary Fiber", "unit": "g", "quantity": 0},
+        {"category": "Sodium", "unit": "mg", "quantity": 487}
+    ],
+    "lowTemperature": 1,
+    "topTemperature": 4,
+    "expireAfterOpening": 432000,
+    "barcode": "Western Star Original Spreadable Butter Blend Tub 500g",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/my-kitchen-4e7fe.firebasestorage.app/o/Item%20Images%2FDairy%2FWestern%20Star%20Original%20Spreadable%20Butter%20Blend%20Tub%20500g.heic?alt=media&token=8c730c91-75c4-4899-a496-e6a06627acfd",
+    "description": "We’ve taken the five-star Western Star taste you know and love and made it soft and spreadable. Ideal for sandwiches, toast, pancakes and more."
+  },
+
   {
     "name": "a2 Milk Full Cream Bottle 2L",
     "quantity": 2000,
