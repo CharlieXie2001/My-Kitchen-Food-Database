@@ -13,6 +13,30 @@
             },{
                 "symbol": "house.fill",
                 "description": "Redesigned home tab experience."
+            },{
+                "symbol": "arrow.trianglehead.2.clockwise.rotate.90.circle.fill",
+                "description": "All new way to see what new features were added in the current version of My Kitchen and get a reminder when new version is released.."
+            }
+        ]
+    },
+    
+    {
+        "version": "1.0",
+        "build": "9",
+        "features": [
+            {
+                "symbol": "append.page.fill",
+                "description": "Browse and favourite verified recipes."
+            },
+            {
+                "symbol": "hand.tap.fill",
+                "description": "New animation when you tap and hold buttons in user interface."
+            },{
+                "symbol": "house.fill",
+                "description": "Redesigned home tab experience."
+            },{
+                "symbol": "arrow.trianglehead.2.clockwise.rotate.90.circle.fill",
+                "description": "All new way to see what new features were added in the current version of My Kitchen and get a reminder when new version is released.."
             }
         ]
     }
