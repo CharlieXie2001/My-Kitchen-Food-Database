@@ -14,8 +14,8 @@
                 "symbol": "house.fill",
                 "description": "Redesigned home tab experience."
             },{
-                "symbol": "arrow.trianglehead.2.clockwise.rotate.90.circle.fill",
-                "description": "All new way to see what new features were added in the current version of My Kitchen and get a reminder when new version is released.."
+                "symbol": "arrow.trianglehead.2.clockwise.rotate.90",
+                "description": "All new way to see what new features were added in the current version of My Kitchen and get a reminder when new version is released."
             }
         ]
     },
@@ -25,18 +25,12 @@
         "build": "9",
         "features": [
             {
-                "symbol": "append.page.fill",
-                "description": "Browse and favourite verified recipes."
+                "symbol": "xmark.bin.fill",
+                "description": "Ability to reset all data from the Settings tab."
             },
             {
-                "symbol": "hand.tap.fill",
-                "description": "New animation when you tap and hold buttons in user interface."
-            },{
-                "symbol": "house.fill",
-                "description": "Redesigned home tab experience."
-            },{
-                "symbol": "arrow.trianglehead.2.clockwise.rotate.90.circle.fill",
-                "description": "All new way to see what new features were added in the current version of My Kitchen and get a reminder when new version is released.."
+                "symbol": "sparkles",
+                "description": "View update history of past versions."
             }
         ]
     }
