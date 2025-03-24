@@ -33,5 +33,20 @@
                 "description": "View update history of past versions."
             }
         ]
+    },
+    
+    {
+        "version": "1.0",
+        "build": "10",
+        "features": [
+            {
+                "symbol": "exclamationmark.bubble.fill",
+                "description": "New support page, now you can send feedback to us via social medias."
+            },
+            {
+                "symbol": "house.fill",
+                "description": "Updated home experiences, view current weather condition right from home screen."
+            }
+        ]
     }
 ]
